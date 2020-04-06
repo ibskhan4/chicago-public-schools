@@ -1,0 +1,12 @@
+name: graph
+title: graph
+username:
+account: ibskhan4
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2063282
+bundleId: 2973322
+url: https://ibskhan4.shinyapps.io/graph/
+when: 1586135047.90978
+asMultiple: FALSE
+asStatic: FALSE

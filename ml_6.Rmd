@@ -43,6 +43,7 @@ graph <- school2 %>%
        y = "Number of School Shakeups", 
        title = "Number of School Shakeups in CPS from 2002-2018")
 
+ggsave("graph/graph.png")
 graph
 ```
 
