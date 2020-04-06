@@ -1,0 +1,48 @@
+---
+title: "ml_6"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(readxl)
+library(tidyverse)
+library(janitor)  
+library(gt)
+library(dplyr)
+library(rvest)
+```
+
+```{r include = FALSE}
+# schools <- read_csv('schools.csv') 
+
+school2 <- read_csv('schools.csv', skip = 1,
+  na = c("undefined", ""),
+  col_types = cols(
+  school = col_double(),
+  address = col_character(),
+  zip = col_character(),
+  year = col_double(),
+  type = col_character(),
+  use = col_character(),
+  '2_plus' = col_double(),
+  private = col_double(),
+  sold = col_character(),
+  buyer = col_character(),
+  price = col_character())) 
+```
+
+```{r echo = FALSE}
+graph <- school2 %>% 
+  group_by(year) %>% 
+  filter(type == "school closing") %>% 
+  count(type) %>% 
+  ggplot(aes(year, n)) +
+  geom_col() +
+  labs(x = "Year", 
+       y = "Number of School Shakeups", 
+       title = "Number of School Shakeups in CPS from 2002-2018")
+
+graph
+```
+
