@@ -17,6 +17,14 @@ ui <- fluidPage(
     )
 )
 
+navbarPage("Chicago Public Schools",
+          
+           tabPanel("About",
+                    h1("League of Legends — a global phenomenon"),
+                    br(),
+                    HTML(readLines('about.html')))
+)
+
 # Define server logic required to draw a histogram
 server <- function(input, output) {
     

@@ -1,5 +1,5 @@
 ---
-title: "ml_6"
+title: "Final Project"
 output: html_document
 ---
 
@@ -30,6 +30,8 @@ school2 <- read_csv('schools.csv', skip = 1,
   sold = col_character(),
   buyer = col_character(),
   price = col_character())) 
+
+budget <- read_csv('budget_data.csv')
 ```
 
 ```{r echo = FALSE}
@@ -45,5 +47,8 @@ graph <- school2 %>%
 
 ggsave("graph/graph.png")
 graph
+
+budget
+
 ```
 
