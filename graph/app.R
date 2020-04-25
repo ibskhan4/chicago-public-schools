@@ -7,23 +7,23 @@
 #
 
 library(shiny)
+library(shinythemes)
+library(tidyverse)
 
 # Define UI for application that draws a histogram
 ui <- fluidPage(
     
     # Show a plot of the generated distribution
-    mainPanel(
-        plotOutput("image")
+
+    navbarPage("Chicago Public Schools",
+               tabPanel("about",
+                HTML(readLines("~/Documents/ml6/about_proj.html", skip = 4))),
+               tabPanel("Data",
+                        plotOutput("image"))
     )
 )
 
-navbarPage("Chicago Public Schools",
-          
-           tabPanel("About",
-                    h1("League of Legends — a global phenomenon"),
-                    br(),
-                    HTML(readLines('about.html')))
-)
+
 
 # Define server logic required to draw a histogram
 server <- function(input, output) {

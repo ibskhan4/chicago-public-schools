@@ -13,8 +13,6 @@ library(dplyr)
 library(rvest)
 ```
 
-I am fdf
-
 The Chicago Public Schools (CPS) district has been lacerated with budget
 cuts, perpetuating a cycle of schools being forced to close, students being
 displaced, and the district suffering. Put simply, the primary vehicle through
