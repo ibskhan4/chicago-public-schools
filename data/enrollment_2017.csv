@@ -1,0 +1,665 @@
+﻿Network,School ID,School Name, Total ,year
+Network 1,610212,Albany Park Multicultural Academy, 277 ,2017
+Network 1,610209,Alessandro Volta Elementary School, 921 ,2017
+Network 1,609836,Arthur E Canty Elementary School, 849 ,2017
+Network 1,609729,Carl Schurz High School," 1,812 ",2017
+Network 1,610083,Daniel C Beard Elementary School, 173 ,2017
+Network 1,610564,Disney II Magnet High School, 730 ,2017
+Network 1,610515,Disney II Magnet School, 428 ,2017
+Network 1,610523,Edison Park Elementary School, 564 ,2017
+Network 1,610137,Ernst Prussing Elementary School, 705 ,2017
+Network 1,609874,Everett McKinley Dirksen Elementary School, 884 ,2017
+Network 1,610163,Frederick Stock Elementary School, 239 ,2017
+Network 1,609737,Friedrich W von Steuben Metropolitan Science HS," 1,737 ",2017
+Network 1,609857,Grover Cleveland Elementary School, 615 ,2017
+Network 1,610182,Hannah G Solomon Elementary School, 360 ,2017
+Network 1,609972,Helge A Haugan Elementary School, 957 ,2017
+Network 1,609798,Hiram H Belding Elementary School, 559 ,2017
+Network 1,609766,Jacqueline B Vaughn Occupational High School, 206 ,2017
+Network 1,609912,James B Farnsworth Elementary School, 638 ,2017
+Network 1,609796,Jean Baptiste Beaubien Elementary School," 1,101 ",2017
+Network 1,610089,John B Murphy Elementary School, 561 ,2017
+Network 1,610111,John Palmer Elementary School, 833 ,2017
+Network 1,609937,John W Garvy Elementary School, 790 ,2017
+Network 1,610159,Jonathan Y Scammon Elementary School, 800 ,2017
+Network 1,610127,Mary Gage Peterson Elementary School, 879 ,2017
+Network 1,609792,Newton Bateman Elementary School," 1,061 ",2017
+Network 1,609810,Norman A Bridge Elementary School," 1,105 ",2017
+Network 1,610354,North River Elementary School, 327 ,2017
+Network 1,609749,Northside College Preparatory High School," 1,069 ",2017
+Network 1,609744,Northside Learning Center High School, 228 ,2017
+Network 1,610099,Norwood Park Elementary School, 411 ,2017
+Network 1,610201,Ole A Thorp Elementary Scholastic Academy, 840 ,2017
+Network 1,610105,Oriole Park Elementary School, 733 ,2017
+Network 1,609988,Patrick Henry Elementary School, 548 ,2017
+Network 1,610145,Peter A Reinberg Elementary School, 852 ,2017
+Network 1,610135,Portage Park Elementary School, 933 ,2017
+Network 1,609995,Rufus M Hitch Elementary School, 593 ,2017
+Network 1,610155,Sauganash Elementary School, 583 ,2017
+Network 1,609728,Theodore Roosevelt High School," 1,198 ",2017
+Network 1,609794,Thomas A Edison Regional Gifted Center ES, 275 ,2017
+Network 1,610230,Wildwood IB World Magnet School, 487 ,2017
+Network 1,609884,William E Dever Elementary School, 788 ,2017
+Network 1,609994,William G Hibbard Elementary School," 1,048 ",2017
+Network 1,609734,William Howard Taft High School," 3,289 ",2017
+Network 1,610104,William J Onahan Elementary School, 639 ,2017
+Network 1,609949,William P Gray Elementary School," 1,228 ",2017
+Network 2,609804,Daniel Boone Elementary School, 830 ,2017
+Network 2,609859,DeWitt Clinton Elementary School," 1,173 ",2017
+Network 2,609852,Eliza Chappell Elementary School, 606 ,2017
+Network 2,609918,Eugene Field Elementary School, 199 ,2017
+Network 2,609779,George Armstrong International Studies ES," 1,433 ",2017
+Network 2,610196,George B Swift Elementary Specialty School, 686 ,2017
+Network 2,610122,Helen Peirce International Studies ES," 1,028 ",2017
+Network 2,610070,James B McPherson Elementary School, 737 ,2017
+Network 2,609866,John C Coonley Elementary School, 948 ,2017
+Network 2,610269,John T McCutcheon Elementary School, 421 ,2017
+Network 2,609865,Jordan Elementary Community School, 508 ,2017
+Network 2,610242,Joseph Brennemann Elementary School, 398 ,2017
+Network 2,610022,Joyce Kilmer Elementary School, 793 ,2017
+Network 2,609719,Lake View High School," 1,298 ",2017
+Network 2,609817,Lyman A Budlong Elementary School, 790 ,2017
+Network 2,610355,Mary E Courtenay Elementary Language Arts Center, 456 ,2017
+Network 2,610011,Minnie Mars Jamieson Elementary School, 875 ,2017
+Network 2,610284,New Field Elementary School, 683 ,2017
+Network 2,609730,Nicholas Senn High School," 1,415 ",2017
+Network 2,610147,Philip Rogers Elementary School, 783 ,2017
+Network 2,610141,Ravenswood Elementary School, 549 ,2017
+Network 2,609695,Roald Amundsen High School," 1,172 ",2017
+Network 2,609733,Roger C Sullivan High School, 626 ,2017
+Network 2,609880,Stephen Decatur Classical Elementary School, 292 ,2017
+Network 2,609933,Stephen F Gale Elementary Community Academy, 363 ,2017
+Network 2,609976,Stephen K Hayt Elementary School," 1,049 ",2017
+Network 2,609724,Stephen T Mather High School," 1,502 ",2017
+Network 2,610191,Stone Elementary Scholastic Academy, 626 ,2017
+Network 2,610220,Thomas J Waters Elementary School, 634 ,2017
+Network 2,610394,Uplift Community High School, 301 ,2017
+Network 2,610542,West Ridge Elementary School, 796 ,2017
+Network 2,609945,William C. Goudy Technology Academy, 727 ,2017
+Network 3,609922,Belmont-Cragin Elementary School, 575 ,2017
+Network 3,609679,Charles Allen Prosser Career Academy High School," 1,377 ",2017
+Network 3,609732,Charles P Steinmetz College Preparatory HS," 1,374 ",2017
+Network 3,609904,Edward K Ellington Elementary School, 638 ,2017
+Network 3,609708,Edwin G. Foreman College and Career Academy, 894 ,2017
+Network 3,610235,Ella Flagg Young Elementary School, 876 ,2017
+Network 3,610165,Franz Peter Schubert Elementary School, 855 ,2017
+Network 3,610245,Frederick A Douglass Academy High School, 175 ,2017
+Network 3,610305,George Leland Elementary School, 479 ,2017
+Network 3,609795,George Rogers Clark Elementary School, 250 ,2017
+Network 3,610068,Hanson Park Elementary School," 1,541 ",2017
+Network 3,610158,Harriet E Sayre Elementary Language Academy, 459 ,2017
+Network 3,610092,Henry H Nash Elementary School, 336 ,2017
+Network 3,609975,John Hay Elementary Community Academy, 425 ,2017
+Network 3,610043,Joseph Lovett Elementary School, 404 ,2017
+Network 3,610041,Josephine C Locke Elementary School," 1,359 ",2017
+Network 3,609910,Laughlin Falconer Elementary School," 1,207 ",2017
+Network 3,609818,Luther Burbank Elementary School, 934 ,2017
+Network 3,610539,Marvin Camras Elementary School, 972 ,2017
+Network 3,610046,Mary Lyon Elementary School," 1,504 ",2017
+Network 3,610244,Michele Clark Academic Prep Magnet High School, 548 ,2017
+Network 3,609830,Milton Brunson Math & Science Specialty ES, 539 ,2017
+Network 3,610051,Northwest Middle School, 492 ,2017
+Network 3,610367,Oscar DePriest Elementary School, 614 ,2017
+Network 3,610183,Spencer Technology Academy, 696 ,2017
+Network 3,610518,VOISE Academy High School, 304 ,2017
+Network 4,610038,Abraham Lincoln Elementary School, 853 ,2017
+Network 4,609720,Albert G Lane Technical High School," 4,195 ",2017
+Network 4,609799,Alexander Graham Bell Elementary School, 961 ,2017
+Network 4,610039,Carl von Linne Elementary School, 648 ,2017
+Network 4,609875,Charles R Darwin Elementary School, 523 ,2017
+Network 4,610402,DeVry University Advantage Academy HS, 196 ,2017
+Network 4,610541,Federico Garcia Lorca Elementary School, 858 ,2017
+Network 4,610144,Frank W Reilly Elementary School, 998 ,2017
+Network 4,609926,Franklin Elementary Fine Arts Center, 365 ,2017
+Network 4,609930,Frederick Funston Elementary School, 449 ,2017
+Network 4,610010,Friedrich L. Jahn Elementary of the Fine Arts, 344 ,2017
+Network 4,610048,George Manierre Elementary School, 356 ,2017
+Network 4,609850,Horace Greeley Elementary School, 614 ,2017
+Network 4,610078,Inter-American Elementary Magnet School, 716 ,2017
+Network 4,609803,James G Blaine Elementary School, 884 ,2017
+Network 4,610074,James Monroe Elementary School, 899 ,2017
+Network 4,609942,Johann W von Goethe Elementary School, 790 ,2017
+Network 4,609789,John Barry Elementary School, 726 ,2017
+Network 4,609782,John J Audubon Elementary School, 560 ,2017
+Network 4,609716,Kelvyn Park High School, 533 ,2017
+Network 4,610033,LaSalle Elementary Language Academy, 563 ,2017
+Network 4,610325,Logandale Middle School, 777 ,2017
+Network 4,609809,Lorenz Brentano Math & Science Academy ES, 475 ,2017
+Network 4,610094,Louis Nettelhorst Elementary School, 822 ,2017
+Network 4,609774,Louisa May Alcott College Preparatory ES, 640 ,2017
+Network 4,610524,Louisa May Alcott College Preparatory HS, 331 ,2017
+Network 4,610059,Oscar F Mayer Elementary School, 730 ,2017
+Network 4,609853,Salmon P Chase Elementary School, 458 ,2017
+Network 4,609968,Sharon Christa McAuliffe Elementary School, 764 ,2017
+Network 4,610095,Walter L Newberry Math & Science Academy ES, 574 ,2017
+Network 4,610136,William H Prescott Elementary School, 375 ,2017
+Network 4,610097,William P Nixon Elementary School, 883 ,2017
+Network 4,610088,Wolfgang A Mozart Elementary School, 710 ,2017
+Network 5,610334,Al Raby High School, 416 ,2017
+Network 5,610342,Albert R Sabin Elementary Magnet School, 602 ,2017
+Network 5,610131,Ambrose Plamondon Elementary School, 144 ,2017
+Network 5,610005,Charles Evans Hughes Elementary School, 275 ,2017
+Network 5,610194,Charles Sumner  Math & Science Community Acad ES, 267 ,2017
+Network 5,609863,Christopher Columbus Elementary School, 294 ,2017
+Network 5,609873,Crown Community Academy of Fine Arts Center ES, 305 ,2017
+Network 5,609835,Daniel R Cameron Elementary School, 783 ,2017
+Network 5,610221,Daniel Webster Elementary School, 311 ,2017
+Network 5,610503,Frazier Prospective IB Magnet ES, 252 ,2017
+Network 5,609854,Frederic Chopin Elementary School, 461 ,2017
+Network 5,610293,Genevieve Melody Elementary School, 509 ,2017
+Network 5,610202,George W Tilton Elementary School, 346 ,2017
+Network 5,609693,George Westinghouse College Prep," 1,150 ",2017
+Network 5,610192,Harriet Beecher Stowe Elementary School, 692 ,2017
+Network 5,609985,Helen M Hefferan Elementary School, 368 ,2017
+Network 5,609797,Jacob Beidler Elementary School, 482 ,2017
+Network 5,610044,James Russell Lowell Elementary School, 509 ,2017
+Network 5,610271,Jensen Elementary Scholastic Academy, 450 ,2017
+Network 5,609723,John Marshall Metropolitan High School, 370 ,2017
+Network 5,609954,John Milton Gregory Elementary School, 356 ,2017
+Network 5,610313,Jose De Diego Elementary Community Academy, 656 ,2017
+Network 5,609925,Joseph Kellman Corporate Community ES, 347 ,2017
+Network 5,610133,Laura S Ward Elementary School, 513 ,2017
+Network 5,610034,Lawndale Elementary Community Academy, 301 ,2017
+Network 5,609907,Leif Ericson Elementary Scholastic Academy, 467 ,2017
+Network 5,609722,Manley Career Academy High School, 177 ,2017
+Network 5,610055,Michael Faraday Elementary School, 306 ,2017
+Network 5,609691,North-Grand High School, 961 ,2017
+Network 5,610234,Richard Yates Elementary School, 508 ,2017
+Network 5,610056,Roswell B Mason Elementary School, 370 ,2017
+Network 5,610100,West Park Elementary Academy, 648 ,2017
+Network 5,610251,Willa Cather Elementary School, 394 ,2017
+Network 5,610123,William Penn Elementary School, 362 ,2017
+Network 6,610229,A.N. Pritzker School, 747 ,2017
+Network 6,609947,Alexander Graham Elementary School, 449 ,2017
+Network 6,610060,Andrew Jackson Elementary Language Academy, 561 ,2017
+Network 6,609996,Charles N Holden Elementary School, 498 ,2017
+Network 6,610012,Edward Jenner Elementary Academy of the Arts, 238 ,2017
+Network 6,610009,Galileo Math & Science Scholastic Academy ES, 577 ,2017
+Network 6,610062,George B McClellan Elementary School, 366 ,2017
+Network 6,610107,James Otis Elementary School, 497 ,2017
+Network 6,610217,James Ward Elementary School, 558 ,2017
+Network 6,609959,John Charles Haines Elementary School, 671 ,2017
+Network 6,610180,John M Smyth Elementary School, 436 ,2017
+Network 6,609828,Jonathan Burr Elementary School, 445 ,2017
+Network 6,610081,Mark Sheridan Math & Science Academy, 563 ,2017
+Network 6,610529,Ogden International High School, 716 ,2017
+Network 6,609777,Phillip D Armour Elementary School, 274 ,2017
+Network 6,610138,Pulaski International School of Chicago, 911 ,2017
+Network 6,609769,Ray Graham Training Center High School, 119 ,2017
+Network 6,610561,Richard T Crane Medical Preparatory HS, 590 ,2017
+Network 6,609979,Robert Healy Elementary School," 1,472 ",2017
+Network 6,610252,Robert Nathaniel Dett Elementary School, 309 ,2017
+Network 6,610029,Rodolfo Lozano Bilingual & International Ctr ES, 232 ,2017
+Network 6,610250,Rueben Salazar Elementary Bilingual Center, 366 ,2017
+Network 6,609750,Simpson Academy HS for Young Women, 64 ,2017
+Network 6,610548,STEM Magnet Academy, 461 ,2017
+Network 6,610405,Suder Montessori Magnet ES, 411 ,2017
+Network 6,609896,Thomas Drummond Elementary School, 353 ,2017
+Network 6,610121,Washington Irving Elementary School, 478 ,2017
+Network 6,610101,William B Ogden Elementary School, 836 ,2017
+Network 6,609812,William H Brown Elementary School, 286 ,2017
+Network 6,610308,Wilma Rudolph Elementary Learning Center, 93 ,2017
+Network 7,609966,Charles G Hammond Elementary School, 458 ,2017
+Network 7,610063,Cyrus H McCormick Elementary School, 794 ,2017
+Network 7,609870,Daniel J Corkery Elementary School, 544 ,2017
+Network 7,609704,David G Farragut Career Academy High School, 843 ,2017
+Network 7,610227,Eli Whitney Elementary School," 1,035 ",2017
+Network 7,610215,Francisco I Madero Middle School, 336 ,2017
+Network 7,609920,Gerald Delgado Kanoon Elementary Magnet School, 660 ,2017
+Network 7,610383,Greater Lawndale High School For Social Justice, 304 ,2017
+Network 7,610384,Infinity Math Science and Technology High School, 409 ,2017
+Network 7,610125,Irma C Ruiz Elementary School, 773 ,2017
+Network 7,610216,John A Walsh Elementary School, 365 ,2017
+Network 7,610228,John Greenleaf Whittier Elementary School, 269 ,2017
+Network 7,610184,John Spry Elementary Community School, 596 ,2017
+Network 7,609950,Josefa Ortiz De Dominguez Elementary School, 596 ,2017
+Network 7,609938,Joseph E Gary Elementary School," 1,118 ",2017
+Network 7,610015,Joseph Jungman Elementary School, 291 ,2017
+Network 7,610129,Josiah Pickard Elementary School, 475 ,2017
+Network 7,610024,Lazaro Cardenas Elementary School, 614 ,2017
+Network 7,609834,Little Village Elementary School, 834 ,2017
+Network 7,609872,Manuel Perez Elementary School, 311 ,2017
+Network 7,610017,Maria Saucedo Elementary Scholastic Academy," 1,085 ",2017
+Network 7,610385,Multicultural Academy of Scholarship, 251 ,2017
+Network 7,610329,Orozco Fine Arts & Sciences Elementary School, 568 ,2017
+Network 7,609867,Peter Cooper Elementary Dual Language Academy, 493 ,2017
+Network 7,610013,Pilsen Elementary Community Academy, 360 ,2017
+Network 7,609826,Rosario Castellanos Elementary School, 611 ,2017
+Network 7,610357,Spry Community Links High School, 162 ,2017
+Network 7,609921,Telpochcalli Elementary School, 288 ,2017
+Network 7,609967,William F Finkl Elementary School, 428 ,2017
+Network 7,610392,World Language Academy High School, 340 ,2017
+Network 8,609993,Agustin Lara Elementary Academy, 474 ,2017
+Network 8,610563,Back of the Yards IB HS," 1,044 ",2017
+Network 8,610317,Brighton Park Elementary School, 490 ,2017
+Network 8,610353,Calmeca Academy of Fine Arts and Dual Language, 807 ,2017
+Network 8,610170,Columbia Explorers Elementary Academy," 1,165 ",2017
+Network 8,609909,Edward Everett Elementary School, 200 ,2017
+Network 8,609735,Edward Tilden Career Community Academy HS, 280 ,2017
+Network 8,609682,Ellen H Richards Career Academy High School, 252 ,2017
+Network 8,610319,Evergreen Academy Middle School, 303 ,2017
+Network 8,609709,Gage Park High School, 336 ,2017
+Network 8,610532,Irene C. Hernandez Middle School for the Advancement of Science," 1,045 ",2017
+Network 8,609983,James Hedges Elementary School, 692 ,2017
+Network 8,610174,James Shields Elementary School, 957 ,2017
+Network 8,610559,James Shields Middle School, 654 ,2017
+Network 8,609829,John C Burroughs Elementary School, 481 ,2017
+Network 8,609964,John H Hamline Elementary School, 610 ,2017
+Network 8,609694,John Hancock College Preparatory High School, 892 ,2017
+Network 8,610117,Louis Pasteur Elementary School," 1,266 ",2017
+Network 8,609756,Marie Sklodowska Curie Metropolitan High School," 2,951 ",2017
+Network 8,609876,Nathan S Davis Elementary School, 776 ,2017
+Network 8,609952,Nathanael Greene Elementary School, 554 ,2017
+Network 8,610239,Richard J Daley Elementary Academy, 612 ,2017
+Network 8,610157,Sidney Sawyer Elementary School," 1,660 ",2017
+Network 8,610226,Socorro Sandoval Elementary School," 1,014 ",2017
+Network 8,609715,Thomas Kelly High School," 2,075 ",2017
+Network 8,610504,Velma F Thomas Early Childhood Center, 161 ,2017
+Network 8,609855,Walter S Christopher Elementary School, 390 ,2017
+Network 8,610167,William H Seward Communication Arts Academy ES, 738 ,2017
+Network 9,610175,Beulah Shoesmith Elementary School, 355 ,2017
+Network 9,609969,Bret Harte Elementary School, 330 ,2017
+Network 9,610381,Bronzeville Scholastic Academy High School, 376 ,2017
+Network 9,610345,Carter G Woodson South Elementary School, 342 ,2017
+Network 9,610030,Charles Kozminski Elementary Community Academy, 285 ,2017
+Network 9,610380,Daniel Hale Williams Prep School of Medicine, 237 ,2017
+Network 9,609751,Dr  Martin Luther King  Jr  College Prep HS, 642 ,2017
+Network 9,609819,Edmond Burke Elementary School, 435 ,2017
+Network 9,610246,Edward Beasley Elementary Magnet Academic Center," 1,353 ",2017
+Network 9,610065,Emmett Louis Till Math and Science Academy, 360 ,2017
+Network 9,609713,Hyde Park Academy High School, 745 ,2017
+Network 9,610110,Ida B Wells Preparatory Elementary Academy, 392 ,2017
+Network 9,610276,Irvin C Mollison Elementary School, 381 ,2017
+Network 9,610256,Jackie Robinson Elementary School, 130 ,2017
+Network 9,609891,James R Doolittle Jr Elementary School, 287 ,2017
+Network 9,610213,James Wadsworth Elementary School, 576 ,2017
+Network 9,609894,John B Drake Elementary School, 418 ,2017
+Network 9,609919,John Fiske Elementary School, 464 ,2017
+Network 9,610126,John J Pershing Elementary Humanities Magnet, 628 ,2017
+Network 9,609746,Kenwood Academy High School," 1,784 ",2017
+Network 9,610237,Ludwig Van Beethoven Elementary School, 406 ,2017
+Network 9,609676,Paul Laurence Dunbar Career Academy High School, 561 ,2017
+Network 9,610090,Phillip Murray Elementary Language Academy, 520 ,2017
+Network 9,609987,Thomas A Hendricks Elementary Community Academy, 225 ,2017
+Network 9,610587,Walter Henri Dyett High School for the Arts, 149 ,2017
+Network 9,610143,William C Reavis Math & Science Specialty ES, 239 ,2017
+Network 9,610142,William H Ray Elementary School, 718 ,2017
+Network 9,609977,Woodlawn Community Elementary School, 195 ,2017
+Network 10,610185,Adlai E Stevenson Elementary School," 1,273 ",2017
+Network 10,609788,Alice L Barnard Computer Math & Science Ctr ES, 321 ,2017
+Network 10,610287,Ashburn Community Elementary School, 507 ,2017
+Network 10,609871,Barbara Vick Early Childhood & Family Center, 336 ,2017
+Network 10,610087,Blair Early Childhood Center, 154 ,2017
+Network 10,609839,Carroll-Rosenwald Specialty Elementary School, 502 ,2017
+Network 10,609879,Charles Gates Dawes Elementary School," 1,045 ",2017
+Network 10,610347,Claremont Academy Elementary School, 434 ,2017
+Network 10,610077,Donald Morrill Math & Science Elementary School, 753 ,2017
+Network 10,610352,Durkin Park Elementary School, 712 ,2017
+Network 10,610006,Edward N Hurley Elementary School, 866 ,2017
+Network 10,610195,Elizabeth H Sutherland Elementary School, 616 ,2017
+Network 10,609908,Esmond Elementary School, 321 ,2017
+Network 10,610057,Fairfield Elementary Academy, 592 ,2017
+Network 10,610067,Francis M McKay Elementary School, 813 ,2017
+Network 10,609849,George F Cassell Elementary School, 410 ,2017
+Network 10,609741,Gurdon S Hubbard High School," 1,772 ",2017
+Network 10,609861,Henry R Clissold Elementary School, 516 ,2017
+Network 10,609893,John C Dore Elementary School, 737 ,2017
+Network 10,609898,John F Eberhart Elementary School," 1,423 ",2017
+Network 10,609718,John F Kennedy High School," 1,658 ",2017
+Network 10,610207,John H Vanderpoel Elementary Magnet School, 287 ,2017
+Network 10,610016,Kate S Kellogg Elementary School, 250 ,2017
+Network 10,609807,Lionel Hampton Fine & Performing Arts ES, 563 ,2017
+Network 10,610544,Mariano Azuela Elementary School, 948 ,2017
+Network 10,610206,Mark Twain Elementary School," 1,147 ",2017
+Network 10,609832,Michael M Byrne Elementary School, 654 ,2017
+Network 10,609725,Morgan Park High School," 1,420 ",2017
+Network 10,609960,Nathan Hale Elementary School, 974 ,2017
+Network 10,609981,Phoebe Apperson Hearst Elementary School, 359 ,2017
+Network 10,609956,Robert L Grimes Elementary School, 467 ,2017
+Network 10,610558,Sarah E. Goode STEM Academy, 861 ,2017
+Network 10,610109,William Bishop Owen Scholastic Academy ES, 263 ,2017
+Network 10,609698,William J Bogan High School, 798 ,2017
+Network 11,609869,Anna R. Langford Community Academy, 316 ,2017
+Network 11,610037,Arthur A Libby Elementary School, 375 ,2017
+Network 11,609941,Asa Philip Randolph Elementary School, 505 ,2017
+Network 11,610290,Benjamin E Mays Elementary Academy, 423 ,2017
+Network 11,610238,Carrie Jacobs Bond Elementary School, 321 ,2017
+Network 11,610366,Charles H Wacker Elementary School, 289 ,2017
+Network 11,609986,Charles R Henderson Elementary School, 263 ,2017
+Network 11,609897,Charles W Earle Elementary School, 454 ,2017
+Network 11,609790,Clara Barton Elementary School, 434 ,2017
+Network 11,609748,Consuella B York Alternative HS, 270 ,2017
+Network 11,610223,Daniel S Wentworth Elementary School, 508 ,2017
+Network 11,610299,Dr. Martin L. King Jr Academy of Social Justice, 235 ,2017
+Network 11,609924,Fort Dearborn Elementary School, 404 ,2017
+Network 11,609927,Foster Park Elementary School, 378 ,2017
+Network 11,610112,Francis W Parker Elementary Community Academy, 563 ,2017
+Network 11,609768,Hope College Preparatory High School, 136 ,2017
+Network 11,610173,Jesse Sherwood Elementary School, 334 ,2017
+Network 11,609864,John W Cook Elementary School, 366 ,2017
+Network 11,610019,Joshua D Kershaw Elementary School, 278 ,2017
+Network 11,609793,Lillian R. Nicholson STEM Academy, 519 ,2017
+Network 11,610108,Luke O'Toole Elementary School, 401 ,2017
+Network 11,610369,Mahalia Jackson Elementary School, 320 ,2017
+Network 11,610362,Medgar Evers Elementary School, 316 ,2017
+Network 11,609783,Nancy B Jefferson Alternative HS, 259 ,2017
+Network 11,609692,Neal F Simeon Career Academy High School," 1,323 ",2017
+Network 11,610300,Oliver S Westcott Elementary School, 422 ,2017
+Network 11,609997,Oliver Wendell Holmes Elementary School, 212 ,2017
+Network 11,610003,Paul Cuffe Math-Science Technology Academy ES, 358 ,2017
+Network 11,609707,Paul Robeson High School, 151 ,2017
+Network 11,609791,Perkins Bass Elementary School, 449 ,2017
+Network 11,610102,Richard J Oglesby Elementary School, 466 ,2017
+Network 11,609929,Robert Fulton Elementary School, 378 ,2017
+Network 11,610391,Robert Lindblom Math & Science Academy HS," 1,294 ",2017
+Network 11,610027,Rudyard Kipling Elementary School, 310 ,2017
+Network 11,609805,Scott Joplin Elementary School, 407 ,2017
+Network 11,610521,Sir Miles Davis Magnet Elementary Academy, 261 ,2017
+Network 11,609745,Southside Occupational Academy High School, 270 ,2017
+Network 11,610506,TEAM Englewood Community Academy High School, 160 ,2017
+Network 11,609895,Turner-Drew Elementary Language Academy, 263 ,2017
+Network 11,610032,Wendell E Green Elementary School, 379 ,2017
+Network 11,610153,William H Ryder Math & Science Specialty ES, 395 ,2017
+Network 11,609711,William Rainey Harper High School, 167 ,2017
+Network 12,610281,Adam Clayton Powell Paideia Community Academy ES, 565 ,2017
+Network 12,610316,Amelia Earhart Options for Knowledge ES, 250 ,2017
+Network 12,610171,Arnold Mireles Elementary Academy, 572 ,2017
+Network 12,609887,Arthur Dixon Elementary School, 584 ,2017
+Network 12,610268,Arthur R Ashe Elementary School, 279 ,2017
+Network 12,609786,Avalon Park Elementary School, 298 ,2017
+Network 12,610323,Bowen High School, 328 ,2017
+Network 12,609827,Burnside Elementary Scholastic Academy, 513 ,2017
+Network 12,609833,Charles P Caldwell Academy of Math & Science ES, 274 ,2017
+Network 12,609813,Charles S Brownell Elementary School, 211 ,2017
+Network 12,609674,Chicago Vocational Career Academy High School, 923 ,2017
+Network 12,609815,Edward A Bouchet Math & Science Academy ES, 603 ,2017
+Network 12,609862,Edward Coles Elementary Language Academy, 473 ,2017
+Network 12,609712,Emil G Hirsch Metropolitan High School, 151 ,2017
+Network 12,609939,Frank L Gillespie Elementary School, 554 ,2017
+Network 12,610124,Harold Washington Elementary School, 371 ,2017
+Network 12,610279,Henry O Tanner Elementary School, 346 ,2017
+Network 12,610052,Horace Mann Elementary School, 390 ,2017
+Network 12,610066,James E McDade Elementary Classical School, 196 ,2017
+Network 12,610047,James Madison Elementary School, 230 ,2017
+Network 12,610200,James N Thorp Elementary School, 336 ,2017
+Network 12,610093,Jane A Neil Elementary School, 285 ,2017
+Network 12,609710,John M Harlan Community Academy High School, 484 ,2017
+Network 12,610130,John T Pirie Fine Arts & Academic Center ES, 287 ,2017
+Network 12,610218,Joseph Warren Elementary School, 280 ,2017
+Network 12,610152,Martha Ruggles Elementary School, 405 ,2017
+Network 12,609961,Ninos Heroes Elementary Academic Center, 373 ,2017
+Network 12,610115,Park Manor Elementary School, 330 ,2017
+Network 12,610116,Parkside Elementary Community Academy, 251 ,2017
+Network 12,610146,Paul Revere Elementary School, 225 ,2017
+Network 12,610350,Robert A Black Magnet Elementary School, 444 ,2017
+Network 12,610530,South Shore Fine Arts Academy, 453 ,2017
+Network 12,610547,South Shore Intl College Prep High School, 591 ,2017
+Network 12,610178,Theophilus Schmid Elementary School, 215 ,2017
+Network 12,610002,Thomas Hoyne Elementary School, 250 ,2017
+Network 12,610193,William K New Sullivan Elementary School, 458 ,2017
+Network 13,609808,Alex Haley Elementary Academy, 577 ,2017
+Network 13,609705,Christian Fenger Academy High School, 230 ,2017
+Network 13,610004,Countee Cullen Elementary School, 172 ,2017
+Network 13,610198,Douglas Taylor Elementary School, 498 ,2017
+Network 13,610188,Dunne Technology Academy, 255 ,2017
+Network 13,610132,Edgar Allan Poe Elementary Classical School, 214 ,2017
+Network 13,610315,Edward White Elementary Career Academy, 180 ,2017
+Network 13,609917,Fernwood Elementary School, 304 ,2017
+Network 13,609800,Frank I Bennett Elementary School, 329 ,2017
+Network 13,609761,George H Corliss High School, 371 ,2017
+Network 13,610139,George M Pullman Elementary School, 351 ,2017
+Network 13,609845,George Washington Carver Primary School, 464 ,2017
+Network 13,610219,George Washington Elementary School, 887 ,2017
+Network 13,609739,George Washington High School," 1,410 ",2017
+Network 13,609726,Gwendolyn Brooks College Preparatory Academy HS, 916 ,2017
+Network 13,609856,Henry Clay Elementary School, 615 ,2017
+Network 13,609848,Ira F Aldridge Elementary School, 167 ,2017
+Network 13,609943,Jesse Owens Elementary Community Academy, 435 ,2017
+Network 13,610176,John D Shoop Math-Science Technical Academy ES, 475 ,2017
+Network 13,610054,John L Marsh Elementary School, 799 ,2017
+Network 13,610225,John Whistler Elementary School, 306 ,2017
+Network 13,610199,Johnnie Colemon Elementary Academy, 252 ,2017
+Network 13,610368,Langston Hughes Elementary School, 486 ,2017
+Network 13,610128,Marcus Moziah Garvey Elementary School, 241 ,2017
+Network 13,609935,Matthew Gallistel Elementary Language Academy, 884 ,2017
+Network 13,610208,Mildred I Lavizzo Elementary School, 354 ,2017
+Network 13,610086,Mount Vernon Elementary School, 260 ,2017
+Network 13,609811,Orville T Bright Elementary School, 295 ,2017
+Network 13,609762,Percy L Julian High School, 631 ,2017
+Network 13,609902,Ralph H Metcalfe Elementary Community Academy, 417 ,2017
+Network 13,610091,Ronald Brown Elementary Community Academy, 353 ,2017
+Network 13,610586,Southeast Area Elementary School, 447 ,2017
+Network 13,610295,Thomas J Higgins Elementary Community Academy, 279 ,2017
+Network 13,609978,Wendell Smith Elementary School, 374 ,2017
+Network 13,610364,William E B Dubois Elementary School, 256 ,2017
+AUSL,610339,Amos Alonzo Stagg Elementary School, 440 ,2017
+AUSL,610106,Brian Piccolo Elementary Specialty School, 603 ,2017
+AUSL,609883,Charles S Deneen Elementary School, 562 ,2017
+AUSL,610248,Chicago Academy Elementary School, 601 ,2017
+AUSL,610340,Chicago Academy High School, 549 ,2017
+AUSL,610499,Collins Academy High School, 295 ,2017
+AUSL,609885,Dewey Elementary Academy of Fine Arts, 419 ,2017
+AUSL,610254,Dvorak Technology Academy, 438 ,2017
+AUSL,610543,Eric Solorio Academy High School," 1,142 ",2017
+AUSL,609900,George W Curtis Elementary School, 578 ,2017
+AUSL,610103,Isabelle C O'Keeffe Elementary School, 647 ,2017
+AUSL,610274,James Weldon Johnson Elementary School, 467 ,2017
+AUSL,610263,John Foster Dulles Elementary School, 631 ,2017
+AUSL,609971,John Harvard Elementary School of Excellence, 427 ,2017
+AUSL,610000,Julia Ward Howe Elementary School of Excellence, 498 ,2017
+AUSL,610036,Leslie Lewis Elementary School, 473 ,2017
+AUSL,610053,Marquette Elementary School," 1,160 ",2017
+AUSL,609928,Melville W Fuller Elementary School, 366 ,2017
+AUSL,610257,Morton School of Excellence, 391 ,2017
+AUSL,609806,Myra Bradwell Communications Arts & Sciences ES, 624 ,2017
+AUSL,610231,National Teachers Elementary Academy, 706 ,2017
+AUSL,610389,Orr Academy High School, 386 ,2017
+AUSL,610021,Pablo Casals Elementary School, 456 ,2017
+AUSL,610282,Ronald E McNair Elementary School, 399 ,2017
+AUSL,610396,Tarkington School of Excellence ES," 1,002 ",2017
+AUSL,609991,Theodore Herzl Elementary School, 657 ,2017
+AUSL,609851,Thomas Chalmers Specialty Elementary School, 372 ,2017
+AUSL,609955,Walter Q Gresham Elementary School, 339 ,2017
+AUSL,609727,Wendell Phillips Academy High School, 558 ,2017
+AUSL,610172,William T Sherman Elementary School, 290 ,2017
+AUSL,609844,William W Carter Elementary School, 406 ,2017
+Service Leadership Academies,610513,Air Force Academy High School, 335 ,2017
+Service Leadership Academies,609754,Chicago Military Academy High School, 293 ,2017
+Service Leadership Academies,609760,George Washington Carver Military Academy HS, 500 ,2017
+Service Leadership Academies,610390,Hyman G Rickover Naval Academy High School, 567 ,2017
+Service Leadership Academies,609780,Marine Leadership Academy at Ames, 841 ,2017
+Service Leadership Academies,610304,Phoenix Military Academy High School, 540 ,2017
+ISP,609963,Alexander Hamilton Elementary School, 477 ,2017
+ISP,610098,Alfred Nobel Elementary School, 882 ,2017
+ISP,609837,Andrew Carnegie Elementary School, 655 ,2017
+ISP,610084,Annie Keller Elementary Gifted Magnet School, 241 ,2017
+ISP,609951,Ariel Elementary Community Academy, 506 ,2017
+ISP,609820,Augustus H Burley Elementary School, 532 ,2017
+ISP,609764,Benito Juarez Community Academy High School," 1,607 ",2017
+ISP,610076,Bernhard Moos Elementary School, 520 ,2017
+ISP,609821,Burnham Elementary Inclusive Academy, 528 ,2017
+ISP,610148,Cesar E Chavez Multicultural Academic Center ES, 997 ,2017
+ISP,609753,Chicago High School for Agricultural Sciences, 720 ,2017
+ISP,609899,Christian Ebinger Elementary School, 800 ,2017
+ISP,610533,Dr Jorge Prieto Math and Science," 1,010 ",2017
+ISP,609901,Edgebrook Elementary School, 515 ,2017
+ISP,610073,Ellen Mitchell Elementary School, 398 ,2017
+ISP,609973,Emiliano Zapata Elementary Academy, 835 ,2017
+ISP,610203,Enrico Tonti Elementary School," 1,074 ",2017
+ISP,610120,Ferdinand Peck Elementary School," 1,656 ",2017
+ISP,610096,Florence Nightingale Elementary School," 1,280 ",2017
+ISP,609958,Frank W Gunsaulus Elementary Scholastic Academy, 798 ,2017
+ISP,609974,Hawthorne Elementary Scholastic Academy, 575 ,2017
+ISP,610040,Henry D Lloyd Elementary School," 1,155 ",2017
+ISP,609772,Jane Addams Elementary School, 778 ,2017
+ISP,610026,John H Kinzie Elementary School, 682 ,2017
+ISP,610520,LaSalle II Magnet Elementary School, 595 ,2017
+ISP,610298,Lenart Elementary Regional Gifted Center, 288 ,2017
+ISP,609738,Lincoln Park High School," 2,129 ",2017
+ISP,609773,Louis A Agassiz Elementary School, 506 ,2017
+ISP,610197,Mancel Talcott Elementary School, 520 ,2017
+ISP,610177,Mark Skinner Elementary School," 1,062 ",2017
+ISP,610312,Mary E McDowell Elementary School, 171 ,2017
+ISP,610082,Mount Greenwood Elementary School," 1,107 ",2017
+ISP,610386,Peace & Education Coalition HS, 113 ,2017
+ISP,609842,Rachel Carson Elementary School," 1,086 ",2017
+ISP,609903,Richard Edwards Elementary School," 1,545 ",2017
+ISP,610291,Richard Henry Lee Elementary School, 849 ,2017
+ISP,609759,Roberto Clemente Community Academy High School, 737 ,2017
+ISP,610534,Skinner North, 488 ,2017
+ISP,609990,South Loop Elementary School, 779 ,2017
+ISP,610249,Talman Elementary School, 445 ,2017
+ISP,609944,Virgil Grissom Elementary School, 368 ,2017
+ISP,610363,Walt Disney Magnet Elementary School," 1,564 ",2017
+ISP,609680,Walter Payton College Preparatory High School, 979 ,2017
+ISP,610179,Washington D Smyser Elementary School, 991 ,2017
+ISP,609740,Wells Community Academy High School, 378 ,2017
+ISP,609755,Whitney M Young Magnet High School," 2,112 ",2017
+ISP,609678,William Jones College Preparatory High School," 1,819 ",2017
+Charter,400009,Academy for Global Citizenship Charter School, 461 ,2017
+Charter,400010,ACE Technical Charter School, 385 ,2017
+Charter,400011,Alain Locke Charter School, 550 ,2017
+Charter,400060,Asian Human Services - Passages Charter School, 482 ,2017
+Charter,400172,ASPIRA Business and Finance, 335 ,2017
+Charter,400013,ASPIRA Charter School - Early College High School, 422 ,2017
+Charter,400017,ASPIRA Charter School - Haugan Middle School, 537 ,2017
+Charter,400115,Catalyst - Maria Charter School," 1,107 ",2017
+Charter,400021,Catalyst Elementary Charter School - Circle Rock, 522 ,2017
+Charter,400161,Chicago Collegiate Charter School, 315 ,2017
+Charter,400035,Chicago Math and Science Academy Charter School, 600 ,2017
+Charter,400036,Chicago Virtual Charter School, 676 ,2017
+Charter,400159,Christopher House Charter School, 277 ,2017
+Charter,400023,CICS - Avalon/South Shore, 501 ,2017
+Charter,400024,CICS - Basil, 749 ,2017
+Charter,400025,CICS - Bucktown, 704 ,2017
+Charter,400113,CICS - ChicagoQuest North, 288 ,2017
+Charter,400027,CICS - Irving Park, 556 ,2017
+Charter,400092,CICS - Lloyd Bond, 341 ,2017
+Charter,400033,CICS - Longwood," 1,361 ",2017
+Charter,400026,CICS - Loomis Primary, 550 ,2017
+Charter,400034,CICS - Northtown, 908 ,2017
+Charter,400028,CICS - Prairie, 420 ,2017
+Charter,400032,CICS - Ralph Ellison, 441 ,2017
+Charter,400029,CICS - Washington Park, 482 ,2017
+Charter,400030,CICS - West Belden, 531 ,2017
+Charter,400031,CICS - Wrightwood, 784 ,2017
+Charter,400094,EPIC Academy Charter High School, 501 ,2017
+Charter,400039,Erie Elementary Charter School, 421 ,2017
+Charter,400171,Foundations College Preparatory Charter School, 212 ,2017
+Charter,400040,Frazier Preparatory Academy Charter School, 428 ,2017
+Charter,400168,Great Lakes Academy Charter School, 251 ,2017
+Charter,400167,Horizon Science Academy Southwest Chicago Charter, 668 ,2017
+Charter,400104,Instituto Health Sciences Career Academy, 759 ,2017
+Charter,400162,Intrinsic Charter School, 989 ,2017
+Charter,400044,KIPP Ascend Charter School, 883 ,2017
+Charter,400163,KIPP Chicago Charter School - KIPP Bloom, 324 ,2017
+Charter,400146,KIPP Chicago Charter School - KIPP Create, 305 ,2017
+Charter,400180,KIPP One Academy, 185 ,2017
+Charter,400045,Kwame Nkrumah Academy Charter School, 213 ,2017
+Charter,400047,L.E.A.R.N. - Charles and Dorothy Campbell Campus, 439 ,2017
+Charter,400048,L.E.A.R.N. - Excel Campus, 451 ,2017
+Charter,400111,L.E.A.R.N. - Hunter Perkins Campus, 497 ,2017
+Charter,400165,L.E.A.R.N. - Middle School Campus, 291 ,2017
+Charter,400046,L.E.A.R.N. - Romano Butler Campus, 656 ,2017
+Charter,400107,L.E.A.R.N. - South Chicago Campus, 493 ,2017
+Charter,400151,L.E.A.R.N. Charter School - 7th Campus, 360 ,2017
+Charter,400049,Legacy Charter School, 470 ,2017
+Charter,400119,Legal Prep Charter Academy, 306 ,2017
+Charter,400178,Moving Everest Charter School, 273 ,2017
+Charter,400050,Namaste Charter School, 485 ,2017
+Charter,400157,Noble - Baker College Prep, 391 ,2017
+Charter,400156,Noble - Butler College Prep, 615 ,2017
+Charter,400097,Noble - Chicago Bulls College Prep," 1,146 ",2017
+Charter,400118,Noble - DRW College Prep, 545 ,2017
+Charter,400052,Noble - Gary Comer College Prep," 1,139 ",2017
+Charter,400053,Noble - Golder College Prep, 654 ,2017
+Charter,400117,Noble - Hansberry College Prep, 709 ,2017
+Charter,400169,Noble - ITW David Speer Academy, 818 ,2017
+Charter,400106,Noble - John and Eunice Johnson College Prep, 864 ,2017
+Charter,400098,Noble - Muchin College Prep, 946 ,2017
+Charter,400051,Noble - Noble College Prep, 636 ,2017
+Charter,400054,Noble - Pritzker College Prep," 1,008 ",2017
+Charter,400055,Noble - Rauner College Prep, 649 ,2017
+Charter,400056,Noble - Rowe-Clark Math and Science Academy, 558 ,2017
+Charter,400170,Noble - The Noble Academy, 346 ,2017
+Charter,400057,Noble - UIC College Prep, 909 ,2017
+Charter,400179,Noble Mansueto High School, 183 ,2017
+Charter,400058,North Lawndale College Prep - Christiana, 379 ,2017
+Charter,400059,North Lawndale College Prep - Collins, 404 ,2017
+Charter,400062,Perspectives - High School of Technology, 381 ,2017
+Charter,400061,Perspectives - Leadership Academy, 481 ,2017
+Charter,400066,Perspectives - Math and Science Academy, 469 ,2017
+Charter,400064,Perspectives - Rodney D. Joslin, 394 ,2017
+Charter,400069,Polaris Charter Academy, 445 ,2017
+Charter,400071,Providence Englewood Charter School, 502 ,2017
+Charter,400096,Rowe Elementary Charter School, 946 ,2017
+Charter,400116,The Montessori School of Englewood Charter, 293 ,2017
+Charter,400078,University of Chicago - Carter G. Woodson, 297 ,2017
+Charter,400075,University of Chicago - Donoghue, 546 ,2017
+Charter,400076,University of Chicago - North Kenwood/Oakland, 363 ,2017
+Charter,400077,University of Chicago - Woodlawn, 622 ,2017
+Charter,400112,UNO 51st and Homan Charter Elementary School, 576 ,2017
+Charter,400120,UNO Charter - Near West Elementary, 569 ,2017
+Charter,400081,UNO Charter School - Bartolomé de las Casas, 285 ,2017
+Charter,400153,UNO Charter School - Brighton Park, 573 ,2017
+Charter,400082,UNO Charter School - Carlos Fuentes, 558 ,2017
+Charter,400114,UNO Charter School - Esmeralda Santiago, 280 ,2017
+Charter,400085,UNO Charter School - Major Hector P. Garcia MD, 624 ,2017
+Charter,400083,UNO Charter School - Octavio Paz Campus, 384 ,2017
+Charter,400089,UNO Charter School - Officer Donald J. Marquez, 575 ,2017
+Charter,400080,UNO Charter School - PFC Omar E. Torres, 614 ,2017
+Charter,400121,UNO Charter School - Rogers Park, 736 ,2017
+Charter,400084,UNO Charter School - Rufino Tamayo, 288 ,2017
+Charter,400101,UNO Charter School - Sandra Cisneros, 545 ,2017
+Charter,400149,UNO Charter School - Soccer Academy High School, 630 ,2017
+Charter,400079,UNO Charter School - SPC Daniel Zizumbo, 624 ,2017
+Charter,400105,Urban Prep Academy for Young Men - Bronzeville, 365 ,2017
+Charter,400086,Urban Prep Academy for Young Men - Englewood, 325 ,2017
+Charter,400102,Urban Prep Charter Academy for Young Men - West, 271 ,2017
+Charter,400087,Young Women's Leadership Charter School, 248 ,2017
+Contract,400022,Chicago High School for the Arts, 603 ,2017
+Contract,400091,Chicago Technology Academy High School, 272 ,2017
+Contract,400043,Hope Institute Learning Academy, 365 ,2017
+Contract,400068,Plato Learning Academy, 448 ,2017
+Options,610555,Banner Academy West, 241 ,2017
+Options,610572,Camelot Safe Elementary, 12 ,2017
+Options,610584,Camelot Safe Garfield Elementary, 6 ,2017
+Options,610585,Camelot Safe Garfield HS, 17 ,2017
+Options,610573,Camelot Safe HS, 12 ,2017
+Options,400147,Chicago Excel Academy, 252 ,2017
+Options,610565,Excel - Englewood HS, 215 ,2017
+Options,400176,Excel - Southwest HS, 190 ,2017
+Options,400175,Excel - Woodlawn HS, 219 ,2017
+Options,400148,Instituto - Justice Lozano, 97 ,2017
+Options,400164,Instituto - Justice Lozano Mastery, 34 ,2017
+Options,400137,Little Black Pearl Art and Design Academy, 134 ,2017
+Options,610581,Magic Johnson- Brainerd HS, 119 ,2017
+Options,610582,Magic Johnson- Englewood HS, 118 ,2017
+Options,610580,Magic Johnson- Humboldt Park HS, 202 ,2017
+Options,610566,Magic Johnson- North Lawndale HS, 178 ,2017
+Options,610567,Magic Johnson- Roseland HS, 202 ,2017
+Options,610569,Ombudsman Chicago- Northwest, 257 ,2017
+Options,610570,Ombudsman Chicago- South, 461 ,2017
+Options,610571,Ombudsman Chicago- West, 365 ,2017
+Options,610557,Pathways in Education- Ashburn, 199 ,2017
+Options,610568,Pathways in Education- Avondale, 250 ,2017
+Options,400173,Pathways in Education- Brighton Park, 353 ,2017
+Options,400123,YCCS- Academy of Scholastic Achievement HS, 193 ,2017
+Options,400133,YCCS- Innovations HS of Arts Integration, 450 ,2017
+Options,400124,YCCS-Ada S. McKinley-Lakeside HS, 214 ,2017
+Options,400125,"YCCS-ASPIRA,Antonia Pantoja Alternative HS", 200 ,2017
+Options,400126,"YCCS-Association House, El Cuarto Ano HS", 170 ,2017
+Options,400127,YCCS-Austin Career Education Center HS, 148 ,2017
+Options,400128,YCCS-CCA Academy HS, 221 ,2017
+Options,400129,YCCS-Charles Hamilton Houston Alternative HS, 186 ,2017
+Options,400150,YCCS-Chatham AcademyHS, 192 ,2017
+Options,400130,YCCS-Community Youth Development Institute HS, 187 ,2017
+Options,400131,YCCS-Dr. Pedro Albizu Campos Puerto Rican HS, 200 ,2017
+Options,400134,YCCS-Jane Addams Alternative HS, 211 ,2017
+Options,400135,YCCS-Latino Youth Alternative HS, 221 ,2017
+Options,400136,YCCS-Olive Harvey Middle College HS, 127 ,2017
+Options,400139,YCCS-Sullivan House Alternative HS, 340 ,2017
+Options,400141,YCCS-Truman Middle College HS, 207 ,2017
+Options,400143,YCCS-West Town Acad Alternative HS, 161 ,2017
+Options,400144,YCCS-Westside Holistic Leadership Acad HS, 132 ,2017
+Options,400145,YCCS-Youth Connection Leadership Acad HS, 260 ,2017

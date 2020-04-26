@@ -17,7 +17,7 @@ ui <- fluidPage(
 
     navbarPage("Chicago Public Schools",
                tabPanel("about",
-                HTML(readLines("~/Documents/ml6/about_proj.html", skip = 4))),
+                HTML(readLines("about_proj.html"))),
                tabPanel("Data",
                         plotOutput("image"))
     )

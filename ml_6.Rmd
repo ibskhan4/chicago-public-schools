@@ -11,6 +11,11 @@ library(janitor)
 library(gt)
 library(dplyr)
 library(rvest)
+library(ggplot2)
+library(sf)
+library(rnaturalearth)
+library(rnaturalearthdata)
+library(ggmap)
 ```
 
 ```{r include = FALSE}
@@ -32,6 +37,8 @@ school2 <- read_csv('schools.csv', skip = 1,
   price = col_character())) 
 
 budget <- read_csv('budget_data.csv')
+
+locs <- read_csv('CPS_School_Locations_SY1415.csv')
 ```
 
 ```{r echo = FALSE}
@@ -49,6 +56,54 @@ ggsave("graph/graph.png")
 graph
 
 budget
+
+```
+Map
+
+```{r}
+library(tidycensus)
+census_api_key('9f9584127dd506cdaf80bdb78927e9c01c12f2b8', overwrite = TRUE)
+
+locs3 <- locs %>% 
+  select(X, Y)
+
+# usa <- subset(world, admin == "United States of America")
+# (mainland <- ggplot(data = usa) +
+#      geom_sf(fill = "cornsilk") +
+#      coord_sf(crs = st_crs(2163), xlim = c(-2500000, 2500000), ylim = c(-2300000, 
+#          730000))) +
+#   points(x = locsx, y = locy)
+
+
+racevars <- c(White = "B02001_002", 
+              Black = "B02001_003", 
+              Asian = "B02001_005",
+              Hispanic = "B03003_003")
+cook <- get_acs(geography = "tract",
+                  variables = racevars, 
+                  year = 2018,
+                  state = "IL",
+                  county = "Cook",
+                  geometry = TRUE,
+                  summary_var = "B02001_001") 
+
+sites <- data.frame(longitude = locsx, latitude = locy)
+
+
+cook %>%
+  mutate(Percent = 100 * (estimate / summary_est)) %>%
+  ggplot() +
+  geom_sf() +
+  geom_point(data = sites, aes(x = longitude, y = latitude), size = 4, 
+        shape = 23, fill = "darkred") +
+  scale_fill_viridis_c(direction = -1) +
+  scale_color_viridis_c(direction = -1) +
+  labs(title = "Racial geography of Cook County, Illinois",
+       caption = "Source: American Community Survey 2014-2018") 
+  # theme_void()
+
+
+
 
 ```
 

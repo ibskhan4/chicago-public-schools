@@ -1,0 +1,667 @@
+Area,Unit,School ID,Schools,Totals,year
+1,2085,610523,Edison Park Elementary School,258,2009
+1,2160,609789,John Barry Elementary School,907,2009
+1,2220,609794,Thomas A Edison Regional Gifted Center ES,264,2009
+1,2240,609796,Jean Baptiste Beaubien Elementary School,"1,127",2009
+1,2260,609798,Hiram H Belding Elementary School,543,2009
+1,2380,609810,Norman A Bridge Elementary School,752,2009
+1,2620,609836,Arthur E Canty Elementary School,703,2009
+1,2800,609857,Grover Cleveland Elementary School,656,2009
+1,2950,609874,Everett McKinley Dirksen Elementary School,692,2009
+1,3020,609884,William E Dever Elementary School,780,2009
+1,3150,609899,Christian Ebinger Elementary School,551,2009
+1,3170,609901,Edgebrook Elementary School,424,2009
+1,3270,609910,Laughlin Falconer Elementary School,"1,560",2009
+1,3280,609912,James B Farnsworth Elementary School,612,2009
+1,3510,609937,John W Garvy Elementary School,644,2009
+1,3620,609949,William P Gray Elementary School,"1,252",2009
+1,3810,609972,Helge A Haugan Elementary School,"1,172",2009
+1,3940,609988,Patrick Henry Elementary School,664,2009
+1,4000,609994,William G Hibbard Elementary School,"1,197",2009
+1,4010,609995,Rufus M Hitch Elementary School,465,2009
+1,4850,610074,James Monroe Elementary School,"1,247",2009
+1,4950,610083,Daniel C Beard Elementary School,162,2009
+1,5020,610089,John B Murphy Elementary School,553,2009
+1,5120,610099,Norwood Park Elementary School,362,2009
+1,5190,610104,William J Onahan Elementary School,601,2009
+1,5200,610105,Oriole Park Elementary School,640,2009
+1,5260,610111,John Palmer Elementary School,961,2009
+1,5410,610127,Mary Gage Peterson Elementary School,925,2009
+1,5490,610135,Portage Park Elementary School,"1,121",2009
+1,5510,610137,Ernst Prussing Elementary School,688,2009
+1,5590,610144,Frank W Reilly Elementary School,"1,554",2009
+1,5600,610145,Peter A Reinberg Elementary School,"1,348",2009
+1,5690,610155,Sauganash Elementary School,506,2009
+1,5730,610159,Jonathan Y Scammon Elementary School,"1,097",2009
+1,5770,610163,Frederick Stock Elementary School,265,2009
+1,5960,610179,Washington D Smyser Elementary School,937,2009
+1,5980,610182,Hannah G Solomon Elementary School,367,2009
+1,6190,610201,Ole A Thorp Elementary Scholastic Academy,827,2009
+1,6270,610209,Alessandro Volta Elementary School,"1,002",2009
+1,6290,610212,Albany Park Multicultural Middle School,277,2009
+1,6470,610230,Wildwood Elementary School,354,2009
+1,6670,610248,Chicago Academy Elementary School,588,2009
+1,7520,610321,Thurgood Marshall Middle School,665,2009
+1,7890,610354,North River Elementary School,302,2009
+1,8045,610515,Walt Disney II Magnet Elementary School,205,2009
+2,2080,609779,George Armstrong International Studies ES,"1,436",2009
+2,2110,609782,John J Audubon Elementary School,482,2009
+2,2190,609792,Newton Bateman Elementary School,"1,003",2009
+2,2270,609799,Alexander Graham Bell Elementary School,948,2009
+2,2300,609803,James G Blaine Elementary School,811,2009
+2,2320,609804,Daniel Boone Elementary School,"1,036",2009
+2,2440,609817,Lyman A Budlong Elementary School,856,2009
+2,2730,609850,Horace Greeley Elementary School,530,2009
+2,2750,609852,Eliza Chappell Elementary School,423,2009
+2,2810,609859,DeWitt Clinton Elementary School,"1,243",2009
+2,2870,609865,Jordan Elementary Community School,701,2009
+2,2880,609866,John C Coonley Elementary School,442,2009
+2,2990,609880,Stephen Decatur Classical Elementary School,274,2009
+2,3350,609918,Eugene Field Elementary School,335,2009
+2,3480,609933,Stephen F Gale Elementary Community Academy,539,2009
+2,3590,609945,William C Goudy Elementary School,712,2009
+2,3730,609963,Alexander Hamilton Elementary School,209,2009
+2,3850,609976,Stephen K Hayt Elementary School,940,2009
+2,4170,610010,Friedrich Ludwig Jahn Elementary School,437,2009
+2,4180,610011,Minnie Mars Jamieson Elementary School,789,2009
+2,4300,610022,Joyce Kilmer Elementary School,850,2009
+2,4800,610070,James B McPherson Elementary School,695,2009
+2,4890,610078,Inter-American Elementary Magnet School,670,2009
+2,5070,610094,Louis Nettelhorst Elementary School,525,2009
+2,5360,610122,Helen Peirce International Studies ES,880,2009
+2,5550,610141,Ravenswood Elementary School,432,2009
+2,5630,610147,Philip Rogers Elementary School,720,2009
+2,6040,610187,Graeme Stewart Elementary School,374,2009
+2,6060,610189,Joseph Stockton Elementary School,515,2009
+2,6070,610191,Stone Elementary Scholastic Academy,630,2009
+2,6130,610196,George B Swift Elementary Specialty School,699,2009
+2,6230,610205,Lyman Trumbull Elementary School,466,2009
+2,6370,610220,Thomas J Waters Elementary School,449,2009
+2,6600,610242,Joseph Brennemann Elementary School,330,2009
+2,6910,610269,John T McCutcheon Elementary School,333,2009
+2,7060,610284,New Field Elementary School,708,2009
+2,7910,610355,Mary E Courtenay Elementary Language Arts Center,235,2009
+2,8000,610363,Walt Disney Magnet Elementary School,"1,577",2009
+3,2230,609795,George Rogers Clark Elementary School,313,2009
+3,2450,609818,Luther Burbank Elementary School,"1,300",2009
+3,2550,609830,Milton Brunson Math & Science Specialty ES,806,2009
+3,3220,609904,Edward K Ellington Elementary School,470,2009
+3,3230,609906,Robert Emmet Elementary School,538,2009
+3,3840,609975,John Hay Elementary Community Academy,713,2009
+3,4060,610000,Julia Ward Howe Elementary School,540,2009
+3,4280,610020,Francis Scott Key Elementary School,389,2009
+3,4450,610036,Leslie Lewis Elementary School,813,2009
+3,4510,610041,Josephine C Locke Elementary School,"1,301",2009
+3,4530,610043,Joseph Lovett Elementary School,504,2009
+3,4560,610046,Mary Lyon Elementary School,"1,270",2009
+3,4670,610058,Horatio May Elementary Community Academy,588,2009
+3,5050,610092,Henry H Nash Elementary School,584,2009
+3,5700,610156,Louis Armstrong Math & Science Elementary School,144,2009
+3,5720,610158,Harriet E Sayre Elementary Language Academy,557,2009
+3,6000,610183,Herbert Spencer Elementary Math & Science Academy,892,2009
+3,6520,610235,Ella Flagg Young Elementary School,"1,422",2009
+3,7040,610282,Ronald E McNair Elementary School,576,2009
+3,7320,610305,George Leland Elementary School,199,2009
+3,8050,610367,Oscar DePriest Elementary School,667,2009
+4,2090,609780,Ames Middle School,740,2009
+4,2610,609835,Daniel R Cameron Elementary School,984,2009
+4,2760,609853,Salmon P Chase Elementary School,528,2009
+4,2770,609854,Frederic Chopin Elementary School,313,2009
+4,2850,609863,Christopher Columbus Elementary School,326,2009
+4,2960,609875,Charles R Darwin Elementary School,682,2009
+4,3390,609922,Belmont-Cragin Elementary School,626,2009
+4,3460,609930,Frederick Funston Elementary School,564,2009
+4,3560,609942,Johann W von Goethe Elementary School,764,2009
+4,3770,609968,Sharon Christa McAuliffe Elementary School,844,2009
+4,4290,610021,Pablo Casals Elementary School,511,2009
+4,4400,610031,Jean D Lafayette Elementary School,627,2009
+4,4500,610040,Henry D Lloyd Elementary School,"1,331",2009
+4,4540,610044,James Russell Lowell Elementary School,756,2009
+4,4600,610051,Northwest Middle School,966,2009
+4,4770,610068,Hanson Park Elementary School,"1,620",2009
+4,4840,610073,Ellen Mitchell Elementary School,296,2009
+4,4870,610076,Bernhard Moos Elementary School,575,2009
+4,5000,610088,Wolfgang A Mozart Elementary School,873,2009
+4,5100,610097,William P Nixon Elementary School,"1,015",2009
+4,5110,610098,Alfred Nobel Elementary School,828,2009
+4,5140,610100,West Park Elementary Academy,714,2009
+4,5210,610106,Brian Piccolo Elementary Specialty School,757,2009
+4,5800,610165,Franz Peter Schubert Elementary School,"1,335",2009
+4,6080,610192,Harriet Beecher Stowe Elementary School,979,2009
+4,6280,610210,Alexander von Humboldt Elementary School,563,2009
+4,6510,610234,Richard Yates Elementary School,809,2009
+4,7510,610320,Ana Roque de Duprey Elementary School,314,2009
+6,2030,609773,Louis A Agassiz Elementary School,349,2009
+6,2040,609774,Louisa May Alcott Elementary School,488,2009
+6,2060,609776,Hans Christian Andersen Community Academy ES,269,2009
+6,2140,609787,Avondale Elementary School,704,2009
+6,2370,609809,Lorenz Brentano Math & Science Academy ES,531,2009
+6,2470,609820,Augustus H Burley Elementary School,519,2009
+6,2530,609828,Jonathan Burr Elementary School,334,2009
+6,2640,609838,Philo Carpenter Elementary School,318,2009
+6,3120,609896,Thomas Drummond Elementary School,276,2009
+6,3420,609926,Franklin Elementary Fine Arts Center,358,2009
+6,3830,609974,Hawthorne Elementary Scholastic Academy,561,2009
+6,4200,610012,Edward Jenner Elementary Academy of the Arts,429,2009
+6,4380,610029,Rodolfo Lozano Bilingual & International Ctr ES,411,2009
+6,4420,610033,LaSalle Elementary Language Academy,573,2009
+6,4480,610038,Abraham Lincoln Elementary School,662,2009
+6,4490,610039,Carl von Linne Elementary School,645,2009
+6,4580,610048,George Manierre Elementary School,507,2009
+6,4680,610059,Oscar F Mayer Elementary School,565,2009
+6,4970,610085,Near North Special Education Center,106,2009
+6,5080,610095,Walter L Newberry Math & Science Academy ES,518,2009
+6,5150,610101,William B Ogden Elementary School,684,2009
+6,5220,610107,James Otis Elementary School,439,2009
+6,5330,610119,Elizabeth Peabody Elementary School,264,2009
+6,5500,610136,William H Prescott Elementary School,227,2009
+6,5520,610138,Casimir Pulaski Elementary Fine Arts Academy,827,2009
+6,5760,610162,Frederick von Schiller Elementary School,190,2009
+6,5790,610164,George Schneider Elementary School,146,2009
+6,6140,610197,Mancel Talcott Elementary School,537,2009
+6,6460,610229,Abram N Pritzker Elementary School,632,2009
+6,6720,610250,Ruben Salazar Elementary Bilingual Center,385,2009
+6,7420,610313,Jose De Diego Elementary Community Academy,993,2009
+6,7560,610325,Logandale Middle School,311,2009
+6,7790,610342,Albert R Sabin Elementary Magnet School,610,2009
+6,8040,610520,LaSalle II Elementary Language Academy,228,2009
+7,2250,609797,Jacob Beidler Elementary School,456,2009
+7,2400,609812,William H Brown Elementary School,251,2009
+7,3000,609881,Edward C Delano Elementary School,498,2009
+7,3050,609888,Mary Mapes Dodge Elementary Renaissance Academy,432,2009
+7,3310,609915,Foundations Elementary School,81,2009
+7,3910,609985,Helen M Hefferan Elementary School,418,2009
+7,3950,609989,Victor Herbert Elementary School,431,2009
+7,4050,609999,Nia Middle Elementary School,52,2009
+7,4640,610055,Michael Faraday Elementary School,247,2009
+7,5470,610133,Laura S Ward Elementary School,443,2009
+7,5680,610154,Martin A Ryerson Elementary School,507,2009
+7,6110,610194,Charles Sumner  Math & Science Community Acad ES,480,2009
+7,6210,610202,George W Tilton Elementary School,414,2009
+7,6340,610405,Suder Montessori Magnet ES,206,2009
+7,6590,610241,Guglielmo Marconi Elementary Community Academy,279,2009
+7,6610,610243,John Calhoun North Elementary School,424,2009
+7,6730,610251,Willa Cather Elementary School,210,2009
+7,6740,610252,Robert Nathaniel Dett Elementary School,246,2009
+7,6800,610257,Morton Elementary Career Academy,284,2009
+7,7350,610308,Wilma Rudolph Elementary Learning Center,109,2009
+7,7840,610348,Nathan R Goldblatt Elementary School,331,2009
+8,2740,609851,Thomas Chalmers Specialty Elementary School,259,2009
+8,2940,609873,Crown Community Academy of Fine Arts Center ES,352,2009
+8,3240,609907,Leif Ericson Elementary Scholastic Academy,585,2009
+8,3410,609925,Joseph Kellman Corporate Community ES,305,2009
+8,3660,609954,John Milton Gregory Elementary School,425,2009
+8,3750,609966,Charles G Hammond Elementary School,506,2009
+8,3970,609991,Theodore Herzl Elementary School,630,2009
+8,4110,610005,Charles Evans Hughes Elementary School,386,2009
+8,4310,610023,William H King Elementary School,316,2009
+8,4430,610034,Lawndale Elementary Community Academy,568,2009
+8,4650,610056,Roswell B Mason Elementary School,547,2009
+8,5350,610121,Washington Irving Elementary School,506,2009
+8,5370,610123,William Penn Elementary School,398,2009
+8,5450,610131,Ambrose Plamondon Elementary School,207,2009
+8,5480,610134,Nathaniel Pope Elementary School,181,2009
+8,5850,610503,Frazier International Magnet Elementary School,173,2009
+8,6380,610221,Daniel Webster Elementary School,439,2009
+8,6570,610240,Matthew A Henson Elementary School,391,2009
+8,6750,610253,Julia C Lathrop Elementary School,322,2009
+8,6760,610254,Anton Dvorak Elementary Specialty Academy,604,2009
+8,6920,610271,Jensen Elementary Scholastic Academy,440,2009
+8,6930,610273,Ignance Paderewski Elementary Learning Academy,182,2009
+8,6940,610274,James Weldon Johnson Elementary School,281,2009
+8,7190,610293,Genevieve Melody Elementary School,409,2009
+8,8020,610365,Mary McLeod Bethune Elementary School,353,2009
+9,2010,609771,Robert Sengstacke Abbott Elementary School,115,2009
+9,2070,609777,Phillip D Armour Elementary School,354,2009
+9,2890,609867,Peter Cooper Elementary Dual Language Academy,734,2009
+9,2930,609872,Manuel Perez Elementary School,502,2009
+9,3100,609894,John B Drake Elementary School,284,2009
+9,3700,609959,John Charels Haines Elementary School,732,2009
+9,3880,609979,Robert Healy Elementary School,"1,294",2009
+9,3960,609990,South Loop Elementary School,567,2009
+9,4020,609996,Charles N Holden Elementary School,625,2009
+9,4160,610009,Galileo Math & Science Scholastic Academy ES,612,2009
+9,4210,610013,Pilsen Elementary Community Academy,452,2009
+9,4230,610015,Joseph Jungman Elementary School,327,2009
+9,4330,610026,John H Kinzie Elementary School,729,2009
+9,4690,610060,Andrew Jackson Elementary Language Academy,545,2009
+9,4710,610062,George B McClellan Elementary School,227,2009
+9,4810,610071,Joseph Medill Elementary School,147,2009
+9,4860,610075,Moses Montefiore Special Elementary School,62,2009
+9,4920,610081,Mark Sheridan Elementary Math & Science Academy,535,2009
+9,5430,610129,Josiah Pickard Elementary School,652,2009
+9,5640,610148,Cesar E Chavez Multicultural Academic Center ES,874,2009
+9,5940,610177,Mark Skinner Elementary School,618,2009
+9,5970,610180,John M Smyth Elementary School,592,2009
+9,6320,610216,John A Walsh Elementary School,519,2009
+9,6330,610217,James Ward Elementary School,464,2009
+9,6450,610228,John Greenleaf Whittier Elementary School,386,2009
+9,6480,610231,National Teachers Elementary Academy,434,2009
+9,6490,610232,Williams Multiplex Elementary School,313,2009
+9,7610,610329,Orozco Fine Arts & Sciences Elementary School,663,2009
+9,7720,610336,Williams Preparatory Academy Middle School Total,117,2009
+10,2510,609826,Rosario Castellanos Elementary School,554,2009
+10,2540,609829,John C Burroughs Elementary School,537,2009
+10,2590,609834,Little Village Elementary School,805,2009
+10,2910,609870,Daniel J Corkery Elementary School,660,2009
+10,2970,609876,Nathan S Davis Elementary School,"1,546",2009
+10,3260,609909,Edward Everett Elementary School,363,2009
+10,3370,609920,Gerald Delgado Kanoon Elementary Magnet School,701,2009
+10,3380,609921,Telpochcalli Elementary School,252,2009
+10,3520,609938,Joseph E Gary Elementary School,"1,232",2009
+10,3630,609950,Josefa Ortiz De Dominguez Elementary School,789,2009
+10,3690,609958,Frank W Gunsaulus Elementary Scholastic Academy,729,2009
+10,3760,609967,William F Finkl Elementary School,679,2009
+10,3820,609973,Emiliano Zapata Elementary Academy,976,2009
+10,4250,610017,Maria Saucedo Elementary Scholastic Academy,"1,269",2009
+10,4320,610024,Lazaro Cardenas Elementary School,606,2009
+10,4720,610063,Cyrus H McCormick Elementary School,916,2009
+10,5390,610125,Irma C Ruiz Elementary School,"1,008",2009
+10,5860,610170,Columbia Explorers Elementary Academy,"1,004",2009
+10,6010,610184,John Spry Elementary Community School,838,2009
+10,6310,610215,Francisco I Madero Middle School,327,2009
+10,6440,610227,Eli Whitney Elementary School,"1,092",2009
+10,7330,610306,Juana I De La Cruz Math & Science Specialty ES,72,2009
+10,7470,610317,Brighton Park Elementary School,910,2009
+10,7880,610353,McKinley Park Elementary School,310,2009
+11,2350,609807,Lionel Hampton Fine & Performing Arts ES,701,2009
+11,2570,609832,Michael M Byrne Elementary School,694,2009
+11,2780,609855,Walter S Christopher Elementary School,264,2009
+11,2980,609879,Charles Gates Dawes Elementary School,"1,164",2009
+11,3080,609893,John C Dore Elementary School,628,2009
+11,3140,609898,John F Eberhart Elementary School,"1,824",2009
+11,3200,609903,Richard Edwards Elementary School,"1,248",2009
+11,3680,609956,Robert L Grimes Elementary School,500,2009
+11,3710,609960,Nathan Hale Elementary School,897,2009
+11,3890,609981,Phobe Apperson Hearst Elementary School,521,2009
+11,4120,610006,Edward N Hurley Elementary School,979,2009
+11,4620,610053,Marquette Elementary School,"1,579",2009
+11,4660,610057,Fairfield Elementary Academy,646,2009
+11,4760,610067,Francis M McKay Elementary School,"1,052",2009
+11,4880,610077,Donald Morrill Math & Science Elementary School,911,2009
+11,4990,610087,Blair Early Childhood Center,124,2009
+11,5090,610096,Florence Nightingale Elementary School,"1,416",2009
+11,5310,610117,Louis Pasteur Elementary School,"1,391",2009
+11,5340,610120,Ferdinand Peck Elementary School,"1,532",2009
+11,5710,610157,Sidney Sawyer Elementary School,"2,098",2009
+11,6030,610185,Adlai E Stevenson Elementary School,"1,350",2009
+11,6220,610203,Enrico Tonti Elementary School,"1,251",2009
+11,6240,610206,Mark Twain Elementary School,"1,039",2009
+11,6430,610226,Socorro Sandoval Elementary School,"1,282",2009
+11,7160,610396,Tarkington School of Excellence ES,"1,089",2009
+11,7170,610291,Richard Henry Lee Elementary School,"1,111",2009
+11,7870,610352,Durkin Park Elementary School,497,2009
+12,2660,609842,Rachel Carson Elementary School,"1,305",2009
+12,2900,609869,Nicholas Copernicus Elementary School,346,2009
+12,3130,609897,Charles W Earle Elementary School,394,2009
+12,3290,609913,Elaine O Goodlow Elementary Magnet School,533,2009
+12,3450,609929,Robert Fulton Elementary School,654,2009
+12,3550,609941,Asa Philip Randolph Elementary School,752,2009
+12,3650,609952,Nathanael Greene Elementary School,596,2009
+12,3740,609964,John H Hamline Elementary School,815,2009
+12,3900,609983,James Hedges Elementary School,931,2009
+12,3920,609986,Charles R Henderson Elementary School,461,2009
+12,3980,609993,Agustin Lara Elementary Academy,590,2009
+12,4470,610037,Arthur A Libby Elementary School,569,2009
+12,5230,610108,Luke O'Toole Elementary School,746,2009
+12,5750,610161,Arna Wendell Bontemps Elementary School,393,2009
+12,5820,610167,William H Seward Communication Arts Academy ES,910,2009
+12,5910,610174,James Shields Elementary School,"1,810",2009
+12,6560,610239,Richard J Daley Elementary Academy,892,2009
+12,6680,610249,Talman Elementary School,347,2009
+12,6710,610504,Velma F Thomas Early Childhood Center,174,2009
+12,7000,610521,Sir Miles Davis Magnet Elementary Academy,558,2009
+12,7490,610319,Evergreen Academy Middle School,427,2009
+12,7830,610347,Claremont Academy Elementary School,584,2009
+13,2100,609781,Crispus Attucks Elementary School,325,2009
+13,2460,609819,Edmond Burke Elementary School,241,2009
+13,2670,609844,William W Carter Elementary School,441,2009
+13,3030,609885,Dewey Elementary Academy of Fine Arts,431,2009
+13,3440,609928,Melville W Fuller Elementary School,283,2009
+13,3600,609947,Alexander Graham Elementary School,537,2009
+13,3930,609987,Thomas A Hendricks Elementary Community Academy,294,2009
+13,4030,609997,Oliver Wendell Holmes Elementary School,462,2009
+13,5280,610114,Francis Parkman Elementary School,156,2009
+13,5650,610150,Betsy Ross Elementary School,411,2009
+13,5890,610172,William T Sherman Elementary School,584,2009
+13,5900,610173,Jesse Sherwood Elementary School,393,2009
+13,6540,610237,Ludwig Van Beethoven Elementary School,411,2009
+13,6660,610246,Edward Beasley Elementary Magnet Academic Center,"1,423",2009
+13,6820,610260,Helen J McCorkle Elementary School,310,2009
+13,6950,610276,Irvin C Mollison Elementary School,293,2009
+13,6960,610277,Anthony Overton Elementary School,429,2009
+13,7820,610345,Carter G Woodson South Elementary School,479,2009
+13,7850,610349,Princeton A C Elementary School,152,2009
+14,2050,609775,John P Altgeld Elementary School,669,2009
+14,2170,609790,Clara Barton Elementary School,663,2009
+14,2180,609791,Perkins Bass Elementary School,508,2009
+14,2200,609793,Nicholson Math & Science Elementary School,405,2009
+14,2330,609805,Scott Joplin Elementary School,604,2009
+14,2410,609813,Charles S Brownell Elementary School,298,2009
+14,3010,609883,Charles S Deneen Elementary School,511,2009
+14,3800,609971,John Harvard Elementary School,519,2009
+14,4270,610019,Joshua D Kershaw Elementary School,273,2009
+14,5170,610102,Richard J Oglesby Elementary School,558,2009
+14,5270,610112,Francis W Parker Elementary Community Academy,716,2009
+14,5290,610115,Park Manor Elementary School,378,2009
+14,5660,610152,Martha Ruggles Elementary School,478,2009
+14,6390,610223,Daniel S Wentworth Elementary School,427,2009
+14,6500,610233,Elihu Yale Elementary School,294,2009
+14,6550,610238,Carrie Jacobs Bond Elementary School,419,2009
+14,6870,610264,Walter Reed Elementary School,297,2009
+14,6880,610265,Benjamin Banneker Elementary School,378,2009
+14,7050,610283,Simon Guggenheim Elementary School,296,2009
+14,7080,610285,Granville T Woods Math & Science Academy ES,511,2009
+14,7150,610290,Benjamin E Mays Elementary Academy,352,2009
+14,7240,610298,Lenart Elementary Regional Gifted Center,322,2009
+14,7250,610299,William A Hinton Elementary School,421,2009
+14,7260,610300,Oliver S Westcott Elementary School,547,2009
+14,7760,610339,Amos Alonzo Stagg Elementary School,614,2009
+15,2630,609837,Andrew Carnegie Elementary School,660,2009
+15,2680,610395,Pershing West Middle School,274,2009
+15,3070,609891,James R Doolittle Jr Elementary School,431,2009
+15,3320,609916,Enrico Fermi Elementary School,239,2009
+15,3360,609919,John Fiske Elementary School,322,2009
+15,3640,609951,Ariel Elementary Community Academy,454,2009
+15,3780,609969,Bret Harte Elementary School,424,2009
+15,3860,609977,Woodlawn Community Elementary School,234,2009
+15,4260,610018,Miriam G Canter Middle School,237,2009
+15,4390,610030,Charles Kozminski Elementary Community Academy,452,2009
+15,4700,610061,William J & Charles H Mayo Elementary School,478,2009
+15,4740,610065,Emmett Louis Till Math and Science Academy,635,2009
+15,5030,610090,Phillip Murray Elementary Language Academy,474,2009
+15,5250,610110,Ida B Wells Preparatory Elementary Academy,149,2009
+15,5400,610126,John J Pershing Elementary Humanities Magnet,254,2009
+15,5560,610142,William H Ray Elementary School,672,2009
+15,5580,610143,William C Reavis Math & Science Specialty ES,391,2009
+15,5830,610169,Austin O Sexton Elementary School,422,2009
+15,5920,610175,Beulah Shoesmith Elementary School,341,2009
+15,6300,610213,James Wadsworth Elementary School,354,2009
+15,6780,610256,Jackie Robinson Elementary School,228,2009
+15,6810,610258,Florence B Price Elementary School,196,2009
+15,6860,610263,John Foster Dulles Elementary School,429,2009
+15,6890,610266,Alexandre Dumas Elementary School,382,2009
+16,2150,609788,Alice L Barnard Computer Math & Science Ctr ES,279,2009
+16,2280,609800,Frank I Bennett Elementary School,593,2009
+16,2650,609839,Carroll-Rosenwald Specialty Elementary School,678,2009
+16,2720,609849,George F Cassell Elementary School,320,2009
+16,2820,609861,Henry R Clissold Elementary School,602,2009
+16,2860,609864,John W Cook Elementary School,673,2009
+16,2920,609871,Barbara Vick Early Childhood & Family Center,240,2009
+16,3160,609900,George W Curtis Elementary School,470,2009
+16,3250,609908,Esmond Elementary School,430,2009
+16,3330,609917,Fernwood Elementary School,440,2009
+16,3400,609924,Fort Dearborn Elementary School,612,2009
+16,3430,609927,Foster Park Elementary School,546,2009
+16,3670,609955,Walter Q Gresham Elementary School,453,2009
+16,4090,610003,Paul Cuffe Math-Science Technology Academy ES,594,2009
+16,4240,610016,Kate S Kellogg Elementary School,271,2009
+16,4360,610028,Alfred David Kohn Elementary School,532,2009
+16,4410,610032,Wendell E Green Elementary School,266,2009
+16,4830,610072,Garrett A Morgan Elementary School,299,2009
+16,4940,610082,Mount Greenwood Elementary School,716,2009
+16,4960,610084,Annie Keller Elementary Gifted Magnet School,227,2009
+16,4980,610086,Mount Vernon Elementary School,314,2009
+16,5240,610109,William Bishop Owen Scholastic Academy ES,240,2009
+16,5420,610128,Marcus Moziah Garvey Elementary School,421,2009
+16,6050,610188,Edward F Dunne Elementary School,418,2009
+16,6120,610195,Elizabeth H Sutherland Elementary School,760,2009
+16,6250,610207,John H Vanderpoel Elementary Magnet School,327,2009
+16,7100,610287,Ashburn Community Elementary School,518,2009
+16,7990,610362,Medgar Evers Elementary School,386,2009
+16,8030,610366,Charles H Wacker Elementary School,237,2009
+16,8060,610368,Langston Hughes Elementary School,255,2009
+16,8090,610369,Mahalia Jackson Elementary School,321,2009
+17,2130,609786,Avalon Park Elementary School,603,2009
+17,2340,609806,Myra Bradwell Communications Arts & Sciences ES,770,2009
+17,2430,609815,Edward A Bouchet Math & Science Academy ES,897,2009
+17,2520,609827,Burnside Elementary Scholastic Academy,765,2009
+17,2580,609833,Charles P Caldwell Academy of Math & Science ES,390,2009
+17,2830,609862,Edward Coles Elementary Language Academy,625,2009
+17,3040,609887,Arthur Dixon Elementary School,654,2009
+17,3110,609895,Turner-Drew Elementary Language Academy,387,2009
+17,3530,609939,Frank L Gillespie Elementary School,536,2009
+17,3720,609961,Ninos Heroes Elementary Academic Center,599,2009
+17,4080,610002,Thomas Hoyne Elementary School,344,2009
+17,4350,610027,Rudyard Kipling Elementary School,455,2009
+17,4570,610047,James Madison Elementary School,437,2009
+17,4610,610052,Horace Mann Elementary School,637,2009
+17,4750,610066,James E McDade Elementary Classical School,192,2009
+17,5060,610093,Jane A Neil Elementary School,379,2009
+17,5180,610103,Isabelle C O'Keeffe Elementary School,675,2009
+17,5300,610116,Parkside Elementary Community Academy,373,2009
+17,5380,610124,Harold Washington Elementary School,667,2009
+17,5440,610130,John T Pirie Fine Arts & Academic Center ES,476,2009
+17,5610,610146,Paul Revere Elementary School,452,2009
+17,5670,610153,William H Ryder Math & Science Specialty ES,369,2009
+17,5880,610171,Arnold Mireles Elementary Academy,"1,082",2009
+17,6100,610193,William K New Sullivan Elementary School,554,2009
+17,6350,610218,Joseph Warren Elementary School,385,2009
+17,6900,610268,Arthur R Ashe Elementary School,584,2009
+17,6970,610279,Henry O Tanner Elementary School,522,2009
+17,6980,610280,Kate S Buckingham Special Education Center,33,2009
+17,7010,610281,Adam Clayton Powell Paideia Community Academy ES,548,2009
+17,7090,610286,South Chicago Community Elementary School,213,2009
+17,7390,610312,Mary E McDowell Elementary School,205,2009
+17,7430,610314,Davis Developmental Center,87,2009
+17,7450,610316,Amelia Earhart Options for Knowledge ES,279,2009
+17,7860,610350,Robert A Black Magnet Elementary School,458,2009
+18,2020,609772,Jane Addams Elementary School,880,2009
+18,2360,609808,Alex Haley Elementary Academy,600,2009
+18,2390,609811,Orville T Bright Elementary School,314,2009
+18,2480,609821,Burnham Elementary Inclusive Academy,274,2009
+18,2690,609845,George Washington Carver Primary School,483,2009
+18,2710,609848,Ira F Aldridge Elementary School,270,2009
+18,2790,609856,Henry Clay Elementary School,687,2009
+18,3190,609902,Ralph H Metcalfe Elementary Community Academy,647,2009
+18,3470,609932,Jesse Owens Elementary Community Academy,418,2009
+18,3490,609935,Matthew Gallistel Elementary Language Academy,"1,379",2009
+18,3570,609943,Samuel Gompers Fine Arts Options ES,358,2009
+18,3580,609944,Virgil Grissom Elementary School,346,2009
+18,3870,609978,Wendell Smith Elementary School,419,2009
+18,4100,610004,Countee Cullen Elementary School,326,2009
+18,4550,610045,Robert H Lawrence Elementary School,456,2009
+18,4630,610054,John L Marsh Elementary School,858,2009
+18,5040,610091,Ronald Brown Elementary Community Academy,321,2009
+18,5460,610132,Edgar Allan Poe Elementary Classical School,183,2009
+18,5530,610139,George M Pullman Elementary School,342,2009
+18,5740,610160,Songhai Elementary Learning Institute,388,2009
+18,5930,610176,John D Shoop Math-Science Technical Academy ES,745,2009
+18,5950,610178,Theophilus Schmid Elementary School,247,2009
+18,6150,610198,Douglas Taylor Elementary School,712,2009
+18,6170,610199,Johnnie Colemon Elementary Academy,286,2009
+18,6180,610200,James N Thorp Elementary School,537,2009
+18,6260,610208,Mildred I Lavizzo Elementary School,506,2009
+18,6360,610219,George Washington Elementary School,778,2009
+18,6400,610224,West Pullman Elementary School,424,2009
+18,6420,610225,John Whistler Elementary School,431,2009
+18,7210,610295,Thomas J Higgins Elementary Community Academy,424,2009
+18,7440,610315,Edward White Elementary Career Academy,194,2009
+18,8010,610364,William E B DuBois Elementary School,196,2009
+19,1070,609679,Charles Allen Prosser Career Academy High School,"1,434",2009
+19,1140,609691,North-Grand High School,929,2009
+19,1210,609695,Roald Amundsen High School,"1,543",2009
+19,1330,609708,Edwin G Foreman High School,"1,961",2009
+19,1410,609716,Kelvyn Park High School,"1,480",2009
+19,1430,609719,Lake View High School,"1,610",2009
+19,1440,609720,Albert G Lane Technical High School,"4,194",2009
+19,1480,609724,Stephen T Mather High School,"1,630",2009
+19,1520,609728,Theodore Roosevelt High School,"1,559",2009
+19,1530,609729,Carl Schurz High School,"2,156",2009
+19,1540,609730,Nicholas Senn High School,"1,155",2009
+19,1560,609732,Charles P Steinmetz Academic Centre High School,"1,910",2009
+19,1570,609733,Roger C Sullivan High School,774,2009
+19,1580,609734,William Howard Taft High School,"2,605",2009
+19,1610,609737,Frederick W von Steuben Metropolitan Science HS,"1,612",2009
+19,1620,609738,Lincoln Park High School,"2,175",2009
+19,1690,609744,Northside Learning Center High School,307,2009
+19,1740,609749,Northside College Preparatory High School,"1,073",2009
+19,1920,609766,Jacqueline B Vaughn Occupational High School,215,2009
+19,2210,610394,Uplift Community High School,558,2009
+19,6990,610402,DeVry University Advantage Academy HS,197,2009
+19,7650,610377,Senn Achievement Academy High School,71,2009
+21,1020,610370,Best Practice High School,238,2009
+21,1045,610499,Collins Academy High School,241,2009
+21,1060,609678,William Jones College Preparatory High School,739,2009
+21,1065,610501,Austin Polytechnical Academy High School,258,2009
+21,1090,609680,Walter Payton College Preparatory High School,875,2009
+21,1270,609702,Richard T Crane Technical Preparatory HS,666,2009
+21,1460,609722,Manley Career Academy High School,"1,058",2009
+21,1470,609723,John Marshall Metropolitan High School,"1,205",2009
+21,1640,609740,Wells Community Academy High School,681,2009
+21,1750,609750,Simpson Academy High School for Young Women,167,2009
+21,1810,609755,Whitney M Young Magnet High School,"2,259",2009
+21,1840,609759,Roberto Clemente Community Academy High School,"1,858",2009
+21,1880,609763,George W Collins High School,151,2009
+21,1890,609764,Benito Juarez Community Academy High School,"1,560",2009
+21,2120,609783,Nancy B Jefferson Alternative High School,370,2009
+21,6620,610244,Michele Clark Academic Prep Magnet High School,"1,013",2009
+21,6630,610245,Frederick A Douglass Academy High School,556,2009
+21,7660,610378,Crane Achievement Academy High School,350,2009
+21,7980,610401,Clemente Achievement Academy High School,218,2009
+23,1030,609676,Paul Laurence Dunbar Career Academy High School,"1,545",2009
+23,1110,609682,Ellen H Richards Career Academy High School,595,2009
+23,1200,609694,John Hancock College Preparatory High School,933,2009
+23,1300,609704,David G Farragut Career Academy High School,"2,079",2009
+23,1340,609709,Gage Park High School,"1,672",2009
+23,1360,609711,William Rainey Harper High School,911,2009
+23,1390,609713,Hyde Park Academy High School,"1,969",2009
+23,1400,609715,Thomas Kelly High School,"3,155",2009
+23,1420,609718,John F Kennedy High School,"1,656",2009
+23,1510,609727,Wendell Phillips Academy High School,784,2009
+23,1590,609735,Edward Tilden Career Community Academy HS,899,2009
+23,1600,609736,Dyett High School,569,2009
+23,1670,609741,Gurdon S Hubbard High School,"1,743",2009
+23,1710,609746,Kenwood Academy High School,"1,676",2009
+23,1730,609748,Consuella B York Alternative High School,309,2009
+23,1760,609751,Dr  Martin Luther King  Jr  College Prep HS,900,2009
+23,1820,609756,Marie Sklodowska Curie Metropolitan High School,"3,473",2009
+23,1940,609768,Hope College Preparatory High School,948,2009
+23,1950,609769,Ray Graham Training Center High School,185,2009
+23,7110,610391,Robert Lindblom Math & Science Academy HS,654,2009
+23,7580,610375,Tilden Achievement Academy High School,213,2009
+23,7930,610357,Spry Community Links High School,134,2009
+23,7960,609743,Phillips Achievement Academy High School,106,2009
+24,1010,609674,Chicago Vocational Career Academy High School,"1,666",2009
+24,1150,609692,Neal F Simeon Career Academy High School,"1,612",2009
+24,1230,609698,William J Bogan High School,"1,972",2009
+24,1310,609705,Christian Fenger Academy High School,"1,196",2009
+24,1320,609707,Paul Robeson High School,"1,332",2009
+24,1350,609710,John M Harlan Community Academy High School,"1,308",2009
+24,1380,609712,Emil G Hirsch Metropolitan High School,832,2009
+24,1490,609725,Morgan Park High School,"1,744",2009
+24,1500,609726,Gwendolyn Brooks College Preparatory Academy HS,744,2009
+24,1630,609739,George Washington High School,"1,460",2009
+24,1700,609745,Southside Occupational Academy High School,172,2009
+24,1790,609753,Chicago High School for Agricultural Sciences,589,2009
+24,1860,609761,George H Corliss High School,"1,032",2009
+24,1870,609762,Percy L Julian High School,"1,748",2009
+24,1910,609765,Bartholome De Las Casas Occupational High School,82,2009
+24,7570,610374,Robeson Achievement Academy High School,187,2009
+24,7670,609675,Chicago Vocational Achievement Academy HS,232,2009
+24,7970,609706,Fenger Achievement Academy High School,99,2009
+25,1123,610386,Peace & Education Coalition High School,103,2009
+25,1145,610518,VOISE Academy High School,149,2009
+25,1830,610389,Orr Academy High School,"1,185",2009
+25,4460,610392,World Language Academy High School,342,2009
+25,7200,610380,Daniel Hale Williams Prep School of Medicine,322,2009
+25,7220,610296,High School of Technology at South Shore,365,2009
+25,7230,610297,High School of Leadership at South Shore,373,2009
+25,7270,610381,Bronzeville Scholastic Academy High School,521,2009
+25,7280,610301,Big Picture High School at Back of The Yards,25,2009
+25,7340,610307,Bowen Environmental Studies High School,313,2009
+25,7360,610309,Chicago Discovery Academy High School,422,2009
+25,7370,610310,High School of the Arts at South Shore,411,2009
+25,7380,610311,Entrepreneurship High School,440,2009
+25,7540,610323,New Millennium High School of Health at Bowen,316,2009
+25,7550,610324,Bowen Global Visions Academy High School,260,2009
+25,7600,610383,Greater Lawndale High School For Social Justice,350,2009
+25,7630,610385,Multicultural Arts High School,323,2009
+25,7680,610384,Infinity Math Science and Technology High School,340,2009
+25,7690,610334,Al Raby High School,538,2009
+25,7730,610337,Big Picture High School at Williams Multiplex,19,2009
+25,7770,610340,Chicago Academy High School,497,2009
+25,8080,610506,TEAM Englewood Community Academy High School,282,2009
+26,1085,610502,Marine Military Academy High School,240,2009
+26,1800,609754,Chicago Military Academy High School,514,2009
+26,1850,609760,George Washington Carver Military Academy HS,504,2009
+26,7140,610390,Hyman G Rickover Naval Academy High School,397,2009
+26,7310,610304,Phoenix Military Academy High School,385,2009
+51,1120,609683,Alternative Learning Community High School,453,2009
+51,1125,610388,LINC Alternative High School,533,2009
+51,1770,610371,IDOC/Healy South High School,76,2009
+52,1105,400058,North Lawndale Charter HS - Howland,405,2009
+52,1106,400059,North Lawndale Charter HS - Collins,248,2009
+52,1121,609686,Youth Connections Charter School,"3,071",2009
+52,1165,400042,Henry Ford Academy: Power House Charter HS,111,2009
+52,1720,400008,Acad of Communication & Tech Charter High School,319,2009
+52,1930,400051,Noble Street Charter - Noble HS,494,2009
+52,1931,400054,Noble Street Charter - Pritzker HS,428,2009
+52,1932,400055,Noble Street Charter - Rauner HS,409,2009
+52,1933,400056,Noble Street Charter - Rowe Clark HS,279,2009
+52,1934,400053,Noble Street Charter - Golder HS,284,2009
+52,1935,400052,Noble Street Charter - Comer HS,153,2009
+52,1936,400057,Noble Street Charter - UIC HS,182,2009
+52,1960,400064,Perspectives Charter-Loop HS,346,2009
+52,1961,400061,Perspectives Charter-Calumet HS,364,2009
+52,1962,400062,Perspectives Charter-Calumet Technical HS,327,2009
+52,1963,400067,Perspectives Charter-Calumet MS,383,2009
+52,1964,400066,Perspectives Charter-Math and Science HS,261,2009
+52,2035,400012,Amandla Charter High School,103,2009
+52,2290,400029,Chicago Intl Charter - Washington Park ES,449,2009
+52,2420,400033,Chicago Intl Charter - Longwood HS,"1,480",2009
+52,2490,400087,Young Womens Leadership Charter High School,356,2009
+52,2600,400075,Univ of Chicago Charter - Donoghue ES,334,2009
+52,3060,400076,Univ of Chicago Charter-North Kenwood Oakland ES,310,2009
+52,3061,400077,Univ of Chicago Charter - Woodlawn HS,440,2009
+52,3062,400078,Univ of Chicago Charter - Woodson South MS,193,2009
+52,3180,400031,Chicago Intl Charter - Wrightwood ES,699,2009
+52,3340,400084,UNO Charter-Tamayo ES,276,2009
+52,3341,400081,UNO Charter ES-de Las Casas,264,2009
+52,3342,400082,UNO Charter-Fuentes ES,539,2009
+52,3343,400085,UNO Charter-Archer Heights HS,149,2009
+52,3344,400079,UNO Charter-Archer Heights North ES,559,2009
+52,3345,400080,UNO Charter-Archer Heights South ES,565,2009
+52,3346,400089,UNO Charter-Marquez ES,540,2009
+52,3500,400017,ASPIRA Charter - Haugan MS,500,2009
+52,3990,400019,Bronzeville Lighthouse Charter Elementary School,404,2009
+52,4140,400073,Betty Shabazz Charter - DuSable HS,383,2009
+52,4150,400069,Polaris Charter Elementary Academy,182,2009
+52,4220,400028,Chicago Intl Charter - Prairie ES,416,2009
+52,4370,400020,Catalyst Charter Elementary School,331,2009
+52,4520,400072,Betty Shabazz Charter - Shabazz ES,297,2009
+52,4730,400011,Alain Locke Elementary Charter Academy,507,2009
+52,4910,400025,Chicago Intl Charter - Bucktown ES,624,2009
+52,4911,400032,Chicago Intl Charter - Ellison HS,447,2009
+52,4913,400027,Chicago Intl Charter - Irving Park ES,349,2009
+52,4914,400026,Chicago Intl Charter - Friesse ES,568,2009
+52,5130,400074,Betty Shabazz Charter - Sizemore ES,202,2009
+52,5780,400039,Erie Charter Elementary School,207,2009
+52,5810,400083,UNO Charter-Paz ES,472,2009
+52,5840,400041,Galapagos Charter Elementary School,314,2009
+52,5870,400049,Legacy Charter Elementary School,303,2009
+52,6530,400037,Choir Academy Charter ES of Chicago,141,2009
+52,6580,400023,Chicago Intl Charter - Avalon South Shore ES,406,2009
+52,6700,400071,Providence Englewood Elementary School,399,2009
+52,6770,400046,LEARN Charter-North Lawndale I ES,433,2009
+52,6775,400048,LEARN Charter-West Garfield ES,146,2009
+52,6850,400060,Passages Charter Elementary School,209,2009
+52,7030,400086,Urban Prep Academy for Young Men Charter HS,445,2009
+52,7120,400030,Chicago Intl Charter - West Belden ES,500,2009
+52,7130,400024,Chicago Intl Charter - Basil ES,726,2009
+52,7700,400036,Chicago Virtual Charter High School,600,2009
+52,7740,400034,Chicago Intl Charter - Northtown HS,808,2009
+52,7800,400015,ASPIRA Charter - Ramirez HS,402,2009
+52,7803,400013,ASPIRA Charter - Early College HS,374,2009
+52,7810,400044,KIPP Ascend Charter Elementary School,325,2009
+52,7920,400050,Namaste Charter Elementary School,313,2009
+52,7940,400035,Chicago Math & Science Charter High School,483,2009
+52,7950,400010,ACE Technical Charter High School,476,2009
+53,1135,400070,Prologue Early College High School,201,2009
+53,1225,400038,Community Services West High School,105,2009
+53,2025,400009,Academy for Global Citizenship Elementary School,89,2009
+53,2045,400068,Plato Learning Academy Elementary School,291,2009
+53,2055,400045,Kwame Nkrumah Elementary Academy,64,2009
+53,4371,400021,Catalyst Elementary School,274,2009
+53,6650,400040,Frazier Preparatory Academy Elementary School,437,2009
+53,7020,400018,Austin Business and Entrepreneurship Academy HS,392,2009

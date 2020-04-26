@@ -41,23 +41,6 @@ can speak to very little outside of their own budgets. I hope to use this
 project as a platform to explore and illustrate concretely the impacts of
 school closures and the consequences of the budget crises engulfing CPS.
 
-What I am currently thinking is that I wish to use the data to construct 
-an animated sort of map which chronologically displays the school closings and
-the consequent impacts on displaced students as a result. The first dataset
-I retrieved was from WBEZ Chicago, which compiled data regarding school 
-closings, openings, and the number of students who were displaced from 2002 to
-2018. From this, I was able to extract two tables which I regard to be very
-relevant, one being a table listing all the schools which have closed 
-throughout the years, and then a table of the number of impacted students
-at the various high schools. I then found another data set from Chicago
-Tribune which lists every single school that faced budget cuts, as well as how
-much their budget increased or was slashed. I'll either try to find some way to
-indicate this on the map I am conjuring in my mind currently, or perhaps
-construct an additional graph. I have web scraped all the necessary data I 
-wanted in the gather.Rmd file, and am prepared to work with them now. I have
-contacted CPS to see if there is any more information I can obtain to add
-to my repertoire of data, but I am prepared to start researching how I can
-animate a geographic graph of the CPS district with the data.
 
 Here are the links to my sources:
 

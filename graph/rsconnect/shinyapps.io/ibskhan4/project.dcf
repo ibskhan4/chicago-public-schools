@@ -1,0 +1,12 @@
+name: project
+title: project
+username:
+account: ibskhan4
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2183367
+bundleId: 3062736
+url: https://ibskhan4.shinyapps.io/project/
+when: 1587796705.60511
+asMultiple: FALSE
+asStatic: FALSE
