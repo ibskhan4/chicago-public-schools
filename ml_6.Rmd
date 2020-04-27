@@ -4,7 +4,7 @@ output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
 library(readxl)
 library(tidyverse)
 library(janitor)  
@@ -13,6 +13,7 @@ library(dplyr)
 library(rvest)
 library(ggplot2)
 library(sf)
+library(broom)
 library(rnaturalearth)
 library(rnaturalearthdata)
 library(ggmap)
@@ -21,7 +22,7 @@ library(ggmap)
 ```{r include = FALSE}
 # schools <- read_csv('schools.csv') 
 
-school2 <- read_csv('schools.csv', skip = 1,
+school2 <- read_csv('data/schools.csv', skip = 1,
   na = c("undefined", ""),
   col_types = cols(
   school = col_double(),
@@ -36,9 +37,9 @@ school2 <- read_csv('schools.csv', skip = 1,
   buyer = col_character(),
   price = col_character())) 
 
-budget <- read_csv('budget_data.csv')
+budget <- read_csv('data/budget_data.csv')
 
-locs <- read_csv('CPS_School_Locations_SY1415.csv')
+locs <- read_csv('data/CPS_School_Locations_SY1415.csv')
 ```
 
 ```{r echo = FALSE}
@@ -47,15 +48,68 @@ graph <- school2 %>%
   filter(type == "school closing") %>% 
   count(type) %>% 
   ggplot(aes(year, n)) +
-  geom_col() +
+  geom_line() +
   labs(x = "Year", 
-       y = "Number of School Shakeups", 
-       title = "Number of School Shakeups in CPS from 2002-2018")
+       y = "Number of School Closings", 
+       title = "Number of School Closings in CPS from 2002-2018") +
+  scale_x_continuous(breaks = seq(2002, 2018, by = 1)) +
+  theme_light() +
+  theme(plot.title = element_text(face = "bold", color = "#063376", size = 20))
 
-ggsave("graph/graph.png")
-graph
 
-budget
+school_join <- school2 %>% 
+  group_by(year) %>% 
+  filter(type == "school closing") %>% 
+  filter(year > 2006 && year < 2019) %>% 
+  count(type) 
+
+ejoin <- enrollment %>% 
+  filter(!is.na(Total)) %>% 
+  group_by(Year) %>% 
+  summarize(sum = sum(Total)) %>% 
+  rename("year" = Year)
+
+school_e_join <- ejoin %>%
+  inner_join(school_join, by = "year") 
+
+school_e_join %>%
+  ggplot(aes(n, sum, color = year)) +
+  geom_point(show.legend = FALSE, alpha = 0.7) +
+  scale_x_log10() +
+  scale_y_log10() +
+  geom_smooth(method = "lm", se = TRUE)
+
+# Fit regression model:
+
+correlation <- school_e_join %>%
+  summarize(correlation = cor(sum, n))
+
+correlation
+
+school_e_join %>%
+  lm(sum ~ n, data = .) %>%
+  tidy(conf.int = TRUE)
+
+aid2 <- aid %>% 
+  filter(year < 2019) %>% 
+  inner_join(ejoin, by = "year")
+
+aid2 %>% 
+  ggplot(aes(gap, sum, color = year)) +
+  geom_point() +
+  scale_x_log10() +
+  scale_y_log10() +
+  geom_smooth(method = "lm", se = TRUE)
+
+aid2 %>% 
+  lm(sum ~ gap, data = .) %>% 
+  tidy(conf.int = TRUE)
+
+aid2 %>% 
+summarize(correlation = cor(sum, gap))
+
+
+  
 
 ```
 Map
@@ -67,13 +121,11 @@ census_api_key('9f9584127dd506cdaf80bdb78927e9c01c12f2b8', overwrite = TRUE)
 locs3 <- locs %>% 
   select(X, Y)
 
-# usa <- subset(world, admin == "United States of America")
-# (mainland <- ggplot(data = usa) +
-#      geom_sf(fill = "cornsilk") +
-#      coord_sf(crs = st_crs(2163), xlim = c(-2500000, 2500000), ylim = c(-2300000, 
-#          730000))) +
-#   points(x = locsx, y = locy)
+locx <- locs3 %>% 
+  pull(X)
 
+locy <- locs3 %>% 
+  pull(Y)
 
 racevars <- c(White = "B02001_002", 
               Black = "B02001_003", 
@@ -87,7 +139,7 @@ cook <- get_acs(geography = "tract",
                   geometry = TRUE,
                   summary_var = "B02001_001") 
 
-sites <- data.frame(longitude = locsx, latitude = locy)
+sites <- data.frame(longitude = locx, latitude = locy)
 
 
 cook %>%

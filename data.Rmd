@@ -13,64 +13,175 @@ library(gt)
 library(dplyr)
 library(rvest)
 library(ggplot2)
+library(gganimate)
 ```
 
 ```{r}
-e2007 <- read_csv('enrollment_2007.csv', col_types = cols(
+e2007 <- read_csv('data/enrollment_2007.csv', col_types = cols(
   Area = col_double(),
-  Unit = col_double(),
-  `School ID` = col_double(),
-  School = col_character(),
-  Total = col_number(),
-  Year = col_double()))
-
-e2008 <- read_csv('enrollment_2008.csv', col_types = cols(
-  Area = col_double(),
-  Unit = col_double(),
-  `School ID` = col_double(),
-  Schools = col_character(),
-  Total = col_number(),
-  year = col_double()))
-
-e2009 <- read_csv('enrollment_2009.csv', col_types = cols(
-  Area = col_double(),
-  Unit = col_double(),
-  `School ID` = col_double(),
-  Schools = col_character(),
-  Totals = col_number(),
-  year = col_double()))
-
-e2010 <- read_csv('enrollment_2010.csv', col_types = cols(
-  Area = col_double(),
-  Unit = col_double(),
-  `School ID` = col_double(),
-  Schools = col_character(),
-  Totals = col_number(),
-  year = col_double()))
-
-e2011 <- read_csv('enrollment_2011.csv', col_types = cols(
-  Area = col_double(),
-  Unit = col_double(),
-  `School ID` = col_double(),
-  Schools = col_character(),
-  Totals = col_number(),
-  year = col_double()))
-
-e2012 <- read_csv('enrollment_2012.csv', col_types = cols(
-  Network = col_character(),
-  Unit = col_double(),
-  `School ID` = col_double(),
-  School = col_character(),
-  Totals = col_number(),
-  year = col_double()))
-
-e2013 <- read_csv('enrollment_2013.csv', col_types = cols(
   Network = col_character(),
   `School ID` = col_double(),
   School = col_character(),
-  Totals = col_number(),
+  Total = col_number(),
+  Year = col_double())) 
+
+e2008 <- read_csv('data/enrollment_2008.csv', col_types = cols(
+  Area = col_double(),
+  Network = col_character(),
+  `School ID` = col_double(),
+  School = col_character(),
+  Total = col_number(),
+  Year = col_double())) 
+
+e2009 <- read_csv('data/enrollment_2009.csv', col_types = cols(
+  Area = col_double(),
+  Network = col_character(),
+  `School ID` = col_double(),
+  School = col_character(),
+  Total = col_number(),
+  Year = col_double())) 
+
+e2010 <- read_csv('data/enrollment_2010.csv', col_types = cols(
+  Area = col_double(),
+  Network = col_character(),
+  `School ID` = col_double(),
+  School = col_character(),
+  Total = col_number(),
+  Year = col_double())) 
+
+e2011 <- read_csv('data/enrollment_2011.csv', col_types = cols(
+  Area = col_double(),
+  `School ID` = col_double(),
+  Network = col_character(),
+  School = col_character(),
+  Total = col_number(),
+  Year = col_double())) 
+
+e2012 <- read_csv('data/enrollment_2012.csv', col_types = cols(
+  Network = col_character(),
+  `School ID` = col_double(),
+  Area = col_double(),
+  School = col_character(),
+  Total = col_number(),
+  Year = col_double())) 
+
+e2013 <- read_csv('data/enrollment_2013.csv', col_types = cols(
+  Network = col_character(),
+  `School ID` = col_double(),
+  Area = col_double(),
+  School = col_character(),
+  Total = col_number(),
+  Year = col_double())) 
+
+e2014 <- read_csv('data/enrollment_2014.csv', col_types = cols(
+  Network = col_character(),
+  `School ID` = col_double(),
+  Area = col_double(),
+  School = col_character(),
+  Total = col_number(),
+  Year = col_double())) 
+
+e2015 <- read_csv('data/enrollment_2015.csv', col_types = cols(
+  Network = col_character(),
+  `School ID` = col_double(),
+  Area = col_double(),
+  School = col_character(),
+  Total = col_number(),
+  Year = col_double()))  
+
+e2016 <- read_csv('data/enrollment_2016.csv', col_types = cols(
+  Network = col_character(),
+  `School ID` = col_double(),
+  Area = col_double(),
+  School = col_character(),
+  Total = col_number(),
+  Year = col_double())) 
+
+e2017 <- read_csv('data/enrollment_2017.csv', col_types = cols(
+  Network = col_character(),
+  `School ID` = col_double(),
+  Area = col_double(),
+  School = col_character(),
+  Total = col_number(),
+  Year = col_double())) 
+
+e2018 <- read_csv('data/enrollment_2018.csv', col_types = cols(
+  Network = col_character(),
+  `School ID` = col_double(),
+  Area = col_double(),
+  School = col_character(),
+  Total = col_number(),
+  Year = col_double())) 
+
+e2019 <- read_csv('data/enrollment_2019.csv', col_types = cols(
+  `School ID` = col_double(),
+  School = col_character(),
+  Total = col_number(),
+  Year = col_double(),
+  Area = col_double(),
+  Network = col_character())) 
+
+aid <- read_csv('data/aid_data.csv', col_types = cols(
+  year = col_double(),
+  federal_aid = col_double(),
+  state_aid = col_double(),
+  total_expenses = col_double(),
+  gap = col_double()))
+
+dropout <- read_csv('data/dropout_data.csv', col_types = cols(
+  group = col_character(),
+  rate = col_double(),
+  total_dropout = col_double(),
   year = col_double()))
 
+enrollment <- e2007 %>% 
+  bind_rows(e2008, e2009, e2010, e2011, e2012, e2013, e2014, e2015, e2016, e2017, e2018, e2019)
+
+```
+
+
+```{r}
+enrollment %>% 
+  filter(!is.na(Total)) %>% 
+  group_by(Year) %>% 
+  summarize(sum = sum(Total))
+```
+
+
+```{r}
+library(gifski)
+
+colors <- c("State Aid" = "darkred",
+            "Federal Aid" = "darkred", 
+            "Total Govt. Aid  (Federal + State)" = "steelblue",
+            "Total Expenses" = "blue")
+
+p <- aid %>% 
+  mutate(total_aid = federal_aid + state_aid) %>% 
+  ggplot(aes(year)) +
+  geom_line(aes(y = state_aid, color = "State Aid"), linetype = "twodash") +
+  geom_line(aes(y = federal_aid, color = "Federal Aid"), linetype = "twodash") +
+  geom_line(aes(y = total_aid, color = "Total Govt. Aid  (Federal + State)"), linetype = "twodash") +
+  geom_line(aes(y = total_expenses, color = "Total Expenses")) +
+  labs(x = "Year", 
+       y = "Amount (in millions of dollars)", 
+       color = "Legend") +
+  theme(
+    legend.position = c(.95, .70),
+    legend.justification = c("right", "top"),
+    legend.box.just = "right",
+    legend.margin = margin(6, 6, 6, 6)) +
+  scale_color_manual(values = colors) +
+  transition_reveal(year)
+
+s <- aid %>% 
+  ggplot(aes(year, gap)) +
+  geom_line() +
+  labs(x = "Year", 
+       y = "Amount (in millions of dollars)") +
+    transition_reveal(year)
+
+s
 
 
 ```
