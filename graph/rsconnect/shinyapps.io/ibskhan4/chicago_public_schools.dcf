@@ -1,0 +1,12 @@
+name: chicago_public_schools
+title: chicago_public_schools
+username:
+account: ibskhan4
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2194675
+bundleId: 3071905
+url: https://ibskhan4.shinyapps.io/chicago_public_schools/
+when: 1587997039.53351
+asMultiple: FALSE
+asStatic: FALSE
