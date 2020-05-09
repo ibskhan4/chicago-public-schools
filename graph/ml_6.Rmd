@@ -159,3 +159,52 @@ cook %>%
 
 ```
 
+```{r}
+aid3 <- aid2 %>% 
+  filter(year < 2015)
+
+drop_join <- dropout %>% 
+  filter(year > 2006) %>% 
+  inner_join(aid3) %>% 
+  mutate(total_aid = state_aid + federal_aid) 
+
+drop_join %>% 
+  ggplot(aes(x = total_dropout, y = state_aid, color = year)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = TRUE) +
+  scale_x_log10() +
+  scale_y_log10() 
+
+ drop_join %>% 
+  lm(federal_aid ~ total_dropout, data = .) %>%
+  tidy(conf.int = TRUE)
+ 
+ cor2 <- drop_join %>%
+  summarize(correlation = cor(federal_aid, total_dropout))
+ 
+ cor2
+ 
+ p <- drop_join %>% 
+   group_by(group) %>% 
+   summarize(Correlation = cor(state_aid, total_dropout)) %>% 
+   rename(Group = group) %>% 
+   select(Group, Correlation) %>% 
+   gt() %>% 
+   tab_header(
+    title = "Correlation Coefficients of State Aid & Student Groups",
+    subtitle = "Data spans 2007-2014") %>% 
+   tab_spanner(
+    label = "Coefficients",
+    columns = c("Group", "Correlation"))
+ 
+ p
+
+
+# s <- aid3 %>% 
+#   ggplot(aes(year, gap)) +
+#   geom_line() +
+#   labs(x = "Year", 
+#        y = "Amount (in millions of dollars)") +
+#     transition_reveal(year)
+```
+

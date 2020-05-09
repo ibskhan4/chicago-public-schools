@@ -4,8 +4,6 @@
 #
 # Find out more about building applications with Shiny here:
 #
-#
-
 
 library(shiny)
 library(shinythemes)
@@ -15,6 +13,9 @@ library(gganimate)
 library(png)
 library(broom)
 library(dplyr)
+library(ggplot2)
+library(ggpubr)
+library(gt)
 
 #  Imported all necessary rds files. 
 
@@ -146,6 +147,91 @@ ui <- fluidPage(theme = shinytheme("flatly"),
                
                # This tab explored the issue of budget deficits
                
+               
+               
+               
+               
+               tabPanel("Dropout Data",
+                        
+                        tabsetPanel(
+                          
+                          # This is the interactive component wherein people can select a school and view enrollment history
+                          
+                          tabPanel("Total Dropout Numbers",
+                                   h2("Group Enrollment Data", align = "center"),
+                                   br(),
+                                   sidebarLayout(
+                                     
+                                     # This section has some background information and the selection mechanism
+                                     
+                                     sidebarPanel(
+                                       h4("CPS Group Enrollment Data"),
+                                       br(),
+                                       p("Student-Based Budgeting has historically been the method through which CPS has been allocated funding, 
+                                                with the attendance and enrollment data as of the 20th day of every academic year being used."),
+                                       p("Therefore, student enrollment is an unequivocally crucial piece of information. Use the interactive tool to view the 
+                                                enrollment history for schools across CPS! For ease of use, the drop-down menu lists School ID, since school names varied 
+                                                across CPS' spreadsheets."),
+                                       br(),
+                                       selectInput("Select a School ID to view its enrollment history.", "Choose an ID:",
+                                                   inputId = "group1",
+                                                   choices = unique(dropout$group))),
+                                     
+                                     # This section had the actual graph. 
+                                     
+                                     mainPanel(
+                                       h4("Total Dropout Numbers for Various Groups", align = "center"),
+                                       plotOutput("group")))
+                                   ),
+                          
+                          # This tab looks at the overall enrollment of CPS over time. Quite a drastic drop!
+                          
+                          tabPanel("Dropout Correlations",
+                                   h2("Dropout Correlations", align = "center"),
+                                   br(),
+                                   sidebarLayout(
+                                     
+                                     # This section has some background information and the selection mechanism
+                                     
+                                     sidebarPanel(
+                                       h4("CPS Dropout and Total Govt. Aid "),
+                                       br(),
+                                       p("Here, we are finding the correlation between state aid and total dropout statistics, all of which was retrieved from the
+                                         CPS website. The reasoning behind my focus on state aid is because in past years, CPS would receive state aid at abysmal rates; in 2008, Illinois
+                                         was ranked 49th amongst the 50 states in regards to state-contributed to funding of its schools. As such, in a district trodden by a paucity of state-distributed
+                                         funding, I wish to explore the relationship between these two key metrics."),
+                                       p("We stumble upon quite interesting conclusions here. The correlation coefficient between the citywide dropout rate and
+                                         total state aid is approximately -0.424. This indicates a relatively strong inverse proportionality, meaning lower total state aid
+                                         results in higher total dropouts."),
+                                       br(),
+                                       selectInput("Select a group to view its correlation with total governmental aid.", "Choose a group:",
+                                                   inputId = "group2",
+                                                   choices = unique(dropout$group))),
+                                     
+                                     # This section had the actual graph. 
+                                     
+                                     mainPanel(
+                                       plotOutput("races"),
+                                       br(),
+                                       gt_output("corrTable"))),
+                                   h2("Discussion"),
+                                   p("The statistics delineating the citywide correlations already portray a strong inverse proportionality. However, we can dive further into the data,
+                                     and see that some groups' dropout numbers had intriguing correlations. One interesting anomaly would be the Native American group, which seems like
+                                     a strong positive correlation (i.e. higher state aid results in more dropouts). However, if one looks at the dropout numbers, the dropout numbers are 
+                                     tremendously small relative to the other groups. Also, it's interesing to note that Black students have the strongest negative correlation, indicating that
+                                     their dropout numbers increase most with less state aid. It's also important to contextualize this; many school closings and funding deficiencies are present
+                                     in the South side of Chicago, wherein over 93% of inhabitants are African-Americans.")
+                                   )
+                          
+                          )),
+               
+               # This tab explored the issue of budget deficits
+               
+               
+               
+               
+               
+               
                tabPanel("Budget Deficit",
                         tabsetPanel(
                           
@@ -263,6 +349,17 @@ server <- function(input, output) {
             geom_line() +
             scale_x_continuous(breaks = seq(2007, 2019, by = 1)) +
             ylab("Total Enrollment as of 20th School Day")
+    })
+    
+    output$group <- renderPlot({
+      
+      dropout %>% 
+        filter(group == input$group1) %>%
+        ggplot(aes(x = year, y = total_dropout)) +
+        geom_line() +
+        scale_x_continuous(breaks = seq(1999, 2014, by = 1)) +
+        ylab("Total Dropout Numbers") +
+        xlab("Year")
     })
     
     # This graph shows total enrollment over time
@@ -495,6 +592,47 @@ server <- function(input, output) {
              contentType = 'image/png',
              alt = "This is alternate text"
         )}, deleteFile = FALSE)
+    
+    
+    output$races <- renderPlot({
+      
+      aid3 <- aid %>% 
+        filter(year < 2015) 
+      
+      drop_join <- dropout %>% 
+        filter(year > 2006) %>% 
+        inner_join(aid3) %>% 
+        filter(group == input$group2)
+      
+      drop_join %>% 
+        ggplot(aes(x = total_dropout, y = state_aid, color = year)) +
+        geom_point() +
+        geom_smooth(method = "lm", se = TRUE) +
+        scale_x_log10() +
+        scale_y_log10() +
+        labs(x = "Total Dropout",
+             y = "Total State Aid",
+             color = "Year",
+             title = "Correlation Between State Aid and Total Dropout Numbers",
+             subtitle = "Group data procured from CPS reports") 
+      
+    })
+    
+    output$corrTable <- render_gt({
+      
+      drop_join %>% 
+        group_by(group) %>% 
+        summarize(Correlation = cor(state_aid, total_dropout)) %>% 
+        rename(Group = group) %>% 
+        select(Group, Correlation) %>% 
+        gt() %>% 
+        tab_header(
+          title = "Correlation Coefficients of State Aid & Student Groups",
+          subtitle = "Data spans 2007-2014") %>% 
+        tab_spanner(
+          label = "Coefficients",
+          columns = c("Group", "Correlation"))
+    })
 }
 
 # Run the application 
